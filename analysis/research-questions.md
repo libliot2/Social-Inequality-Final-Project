@@ -1,6 +1,6 @@
 # Candidate Research Questions
 
-[研究状态](../../research-status.md) · [方法更新](methodological-review.md) · [证据缺口](evidence-gaps.md)
+[研究状态](../research-status.md) · [方法更新](methodological-review.md) · [证据缺口](evidence-gaps.md)
 
 处于探索阶段。以下方向可竞争也可互补。选择短展示的主问题时先比较可得到的证据、课程概念及真实案例的一致性，再决定是否形成 Central Argument。
 
@@ -16,4 +16,4 @@
 2. **求职缓冲。** 在专业、目的地及毕业时间相近的学生中，家庭能提供的无收入月数是否跟在地实习、秋招参与及首次岗位匹配相关？同时区分有网络、使用推荐、实际获职。
 3. **代际指标。** 现有掌握的资料中，哪些能将父母与子女放进同一职业分类？能构建比较组后，再检验海外教育参与和质量轨道是否改变绝对及相对流动。
 
-问卷或访谈材料如用于公开展示，仅登记经授权的匿名摘要。项目内引用以 [Evidence ID](../evidence-master.md) 与 [Case ID](../case-bank.md) 为入口。
+问卷或访谈材料如用于公开展示，仅登记经授权的匿名摘要。项目内引用以 [Evidence ID](../evidence/evidence-master.md) 与 [Case ID](../evidence/case-bank.md) 为入口。

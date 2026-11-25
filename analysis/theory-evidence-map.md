@@ -1,6 +1,6 @@
 # Theory–Evidence Map
 
-[研究模块](../../README.md#研究模块) · [证据库](../evidence-master.md) · [课程说明](../../GroupPresentationInstruction202627Fall.pdf)
+[研究模块](../README.md#研究模块) · [证据库](../evidence/evidence-master.md) · [课程说明](../course/GroupPresentationInstruction202627Fall.pdf)
 
 | 理论与概念 | 可检验命题 | 支持线索 | 竞争机制或反面证据 | 直接检验所需 |
 | --- | --- | --- | --- | --- |
@@ -14,4 +14,4 @@
 | 累积优势与时间继承 | 家庭缓冲持续支持学习探索、延后求职或转换职业 | E35/E52、E38/E39/E53；C010 与 C016 示意时间，C019 为书评线索 | 德国与中国异质性方向不尽相同；长等待也可能由签证、招聘周期或劳动力需求驱动 | 先测前置资源和实际等待成本，再测首次岗位质量，检验组间差 |
 | 代际流动与阶层再生产 | 教育路径改变不同父母阶层子女的职业转移概率或相对机会 | E27 给样本比较，E40 描述弱势参与者路径；E28/E55 只作空间去向对照 | 出身和结构变化、回国选择、测量年纪均可改变表面差异 | 同一职业编码的两代数据，分比较绝对转换率、相对 odds 和结构变化 |
 
-课上展示最终需选择 1–3 个相关概念。理论解释保持为候选机制，到研讨时先比较哪些观测能区分它们。理论原始线索见 [EMI S065](../source-registry.md#s065)、[MMI S067](../source-registry.md#s067)、[案例库](../case-bank.md)。
+课上展示最终需选择 1–3 个相关概念。理论解释保持为候选机制，到研讨时先比较哪些观测能区分它们。理论原始线索见 [EMI S065](../evidence/source-registry.md#s065)、[MMI S067](../evidence/source-registry.md#s067)、[案例库](../evidence/case-bank.md)。

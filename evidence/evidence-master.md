@@ -19,7 +19,7 @@
 - **支持的推断**　描述年度流量及同一统计系列的累计规模。
 - **局限**　同年出国和回国是不同队列；累计数字也须保留分母。
 - **相关理论**　教育扩张、MMI。
-- **贡献与核查**　[R10](<../research-reports/留学机会、资本转换与社会流动.md>)、[R11](<../research-reports/留学成本、家庭资源与就业回报.md>)、[R12](<../research-reports/留学参与、海归就业与展示证据.md>)、[R13](<../research-reports/留学大众化、家庭融资与阶层优势.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R10](<contributions/留学机会、资本转换与社会流动.md>)、[R11](<contributions/留学成本、家庭资源与就业回报.md>)、[R12](<contributions/留学参与、海归就业与展示证据.md>)、[R13](<contributions/留学大众化、家庭融资与阶层优势.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E02
 
@@ -34,7 +34,7 @@
 - **支持的推断**　描述近期流量和累计规模。
 - **局限**　与 E01 口径须复核；同年出国、回国之比不能解释为回国率。
 - **相关理论**　教育扩张、MMI。
-- **贡献与核查**　[R10](<../research-reports/留学机会、资本转换与社会流动.md>)、[R12](<../research-reports/留学参与、海归就业与展示证据.md>)、[R13](<../research-reports/留学大众化、家庭融资与阶层优势.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R10](<contributions/留学机会、资本转换与社会流动.md>)、[R12](<contributions/留学参与、海归就业与展示证据.md>)、[R13](<contributions/留学大众化、家庭融资与阶层优势.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E03
 
@@ -49,7 +49,7 @@
 - **支持的推断**　反映长期扩张。
 - **局限**　跨时期统计制度可能变化；无法判断家庭分层。
 - **相关理论**　教育扩张、MMI。
-- **贡献与核查**　[R13](<../research-reports/留学大众化、家庭融资与阶层优势.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R13](<contributions/留学大众化、家庭融资与阶层优势.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E04
 
@@ -64,7 +64,7 @@
 - **支持的推断**　当年自费为主。
 - **局限**　自费分类没有区分父母、本人与其他资金来源。
 - **相关理论**　经济资本、财富不平等、人力资本投资。
-- **贡献与核查**　[R11](<../research-reports/留学成本、家庭资源与就业回报.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R11](<contributions/留学成本、家庭资源与就业回报.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E05
 
@@ -79,7 +79,7 @@
 - **支持的推断**　可用 E04 支持某一年度自费占多数。
 - **局限**　2018 年度构成不能核实 40 年累计比例。
 - **相关理论**　经济资本、财富不平等、人力资本投资。
-- **贡献与核查**　[R11](<../research-reports/留学成本、家庭资源与就业回报.md>)、[R13](<../research-reports/留学大众化、家庭融资与阶层优势.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R11](<contributions/留学成本、家庭资源与就业回报.md>)、[R13](<contributions/留学大众化、家庭融资与阶层优势.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E06
 
@@ -94,7 +94,7 @@
 - **支持的推断**　估算不同人均收入下的支付情景。
 - **局限**　总体居民口径，无法代表留学家庭。
 - **相关理论**　经济资本、财富不平等、人力资本投资。
-- **贡献与核查**　[R11](<../research-reports/留学成本、家庭资源与就业回报.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R11](<contributions/留学成本、家庭资源与就业回报.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E07
 
@@ -109,7 +109,7 @@
 - **支持的推断**　在家庭规模给定时说明数量级。
 - **局限**　不是观测收入或财富；不可推断家庭支出。
 - **相关理论**　经济资本、财富不平等、人力资本投资。
-- **贡献与核查**　[R11](<../research-reports/留学成本、家庭资源与就业回报.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R11](<contributions/留学成本、家庭资源与就业回报.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E08
 
@@ -124,7 +124,7 @@
 - **支持的推断**　比较标示平均学生预算。
 - **局限**　美国本类学生预算不能代替中国国际生实付或净成本。
 - **相关理论**　经济资本、财富不平等、人力资本投资。
-- **贡献与核查**　[R11](<../research-reports/留学成本、家庭资源与就业回报.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R11](<contributions/留学成本、家庭资源与就业回报.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E09
 
@@ -139,7 +139,7 @@
 - **支持的推断**　说明学费区间与伦敦/非伦敦预算。
 - **局限**　地区、项目和时长变化，网页需按版本引用。
 - **相关理论**　经济资本、财富不平等、人力资本投资。
-- **贡献与核查**　[R11](<../research-reports/留学成本、家庭资源与就业回报.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R11](<contributions/留学成本、家庭资源与就业回报.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E10
 
@@ -154,7 +154,7 @@
 - **支持的推断**　分别比较学费均值与生活资金证明。
 - **局限**　资金证明排除学费与交通，需核申请生效日。
 - **相关理论**　经济资本、财富不平等、人力资本投资。
-- **贡献与核查**　[R11](<../research-reports/留学成本、家庭资源与就业回报.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R11](<contributions/留学成本、家庭资源与就业回报.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E11
 
@@ -169,7 +169,7 @@
 - **支持的推断**　说明签证最低生活资金门槛。
 - **局限**　实际支出及申请生效时间另计。
 - **相关理论**　经济资本、财富不平等、人力资本投资。
-- **贡献与核查**　[R11](<../research-reports/留学成本、家庭资源与就业回报.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R11](<contributions/留学成本、家庭资源与就业回报.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E12
 
@@ -184,7 +184,7 @@
 - **支持的推断**　比较首年标价和月均生活费用。
 - **局限**　首年费用与月度实际支出不能混同。
 - **相关理论**　经济资本、财富不平等、人力资本投资。
-- **贡献与核查**　[R11](<../research-reports/留学成本、家庭资源与就业回报.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R11](<contributions/留学成本、家庭资源与就业回报.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E13
 
@@ -199,7 +199,7 @@
 - **支持的推断**　说明年度资金证明门槛。
 - **局限**　仍有学期费及院校、州或项目差别。
 - **相关理论**　经济资本、财富不平等、人力资本投资。
-- **贡献与核查**　[R11](<../research-reports/留学成本、家庭资源与就业回报.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R11](<contributions/留学成本、家庭资源与就业回报.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E14
 
@@ -210,11 +210,11 @@ CHFS 2023有26,804户，29省、258区县，具全国和省级代表性。
 - **数值与单位**　26,804户、29省、258区县
 - **总体、样本与时间**　CHFS 住户抽样。数据 2023；发表 unknown。
 - **研究设计**　调查覆盖说明。
-- **来源与定位**　[S015](source-registry.md#s015)、[S050](source-registry.md#s050) · <https://chfs.swufe.edu.cn/info/1041/4201.htm>；<https://chfs.swufe.edu.cn/sjzx/sjsq.htm> · 项目样本规模；数据申请页。本地 [chfs-data-access.html](<../sources/web/chfs-data-access.html>)。
+- **来源与定位**　[S015](source-registry.md#s015)、[S050](source-registry.md#s050) · <https://chfs.swufe.edu.cn/info/1041/4201.htm>；<https://chfs.swufe.edu.cn/sjzx/sjsq.htm> · 项目样本规模；数据申请页。本地 [chfs-data-access.html](<original-materials/web/chfs-data-access.html>)。
 - **支持的推断**　支持数据库覆盖与申请线索。
 - **局限**　留学样本量和波次变量均待查。
 - **相关理论**　经济资本、财富不平等、人力资本投资。
-- **贡献与核查**　[R11](<../research-reports/留学成本、家庭资源与就业回报.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R11](<contributions/留学成本、家庭资源与就业回报.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E15
 
@@ -229,7 +229,7 @@ CHFS 2023有26,804户，29省、258区县，具全国和省级代表性。
 - **支持的推断**　说明一种正式融资工具的产品上限。
 - **局限**　上限和获贷、余额或家庭杠杆率分开。
 - **相关理论**　经济资本、财富不平等、人力资本投资。
-- **贡献与核查**　[R11](<../research-reports/留学成本、家庭资源与就业回报.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R11](<contributions/留学成本、家庭资源与就业回报.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E16
 
@@ -244,7 +244,7 @@ CHFS 2023有26,804户，29省、258区县，具全国和省级代表性。
 - **支持的推断**　说明特定地区产品上限。
 - **局限**　地区、资质和担保约束；无实际借款分布。
 - **相关理论**　经济资本、财富不平等、人力资本投资。
-- **贡献与核查**　[R11](<../research-reports/留学成本、家庭资源与就业回报.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R11](<contributions/留学成本、家庭资源与就业回报.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E17
 
@@ -259,7 +259,7 @@ CFPS 2010中23.5%家长考虑过国际教育；最富10%预测概率>0.32；父�
 - **支持的推断**　父母考虑国际教育的意愿具有 SES 与地区梯度。
 - **局限**　意愿、申请、获录取和入学是不同事件；混杂与时点限制。
 - **相关理论**　地位获得、教育不平等、MMI/EMI。
-- **贡献与核查**　[R12](<../research-reports/留学参与、海归就业与展示证据.md>)、[R13](<../research-reports/留学大众化、家庭融资与阶层优势.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R12](<contributions/留学参与、海归就业与展示证据.md>)、[R13](<contributions/留学大众化、家庭融资与阶层优势.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E18
 
@@ -270,11 +270,11 @@ BCSPS纵向研究N=2,255；家庭背景和学业能力均影响留学意愿和�
 - **数值与单位**　2,255人
 - **总体、样本与时间**　北京15校本科生，N=2,255（校数据成员汇编）。数据 unknown；发表 2023。
 - **研究设计**　BCSPS 纵向观察。
-- **来源与定位**　[S019](source-registry.md#s019)、[S051](source-registry.md#s051) · <https://www.sciencedirect.com/science/article/pii/S0738059323001323>；<https://caser.shanghai.nyu.edu/caser-projects/bcsps/> · 论文 Abstract / Highlights；调查项目说明。本地 [liu-et-al-2023-abstract.html](<../sources/web/liu-et-al-2023-abstract.html>)；[bcsps-project.html](<../sources/web/bcsps-project.html>)。
+- **来源与定位**　[S019](source-registry.md#s019)、[S051](source-registry.md#s051) · <https://www.sciencedirect.com/science/article/pii/S0738059323001323>；<https://caser.shanghai.nyu.edu/caser-projects/bcsps/> · 论文 Abstract / Highlights；调查项目说明。本地 [liu-et-al-2023-abstract.html](<original-materials/web/liu-et-al-2023-abstract.html>)；[bcsps-project.html](<original-materials/web/bcsps-project.html>)。
 - **支持的推断**　区分意愿形成与已有意愿者的实现，后者学业因素较突出。
 - **局限**　样本已通过高校入学筛选；无法单独识别因果。
 - **相关理论**　地位获得、教育不平等、MMI/EMI。
-- **贡献与核查**　[R11](<../research-reports/留学成本、家庭资源与就业回报.md>)、[R12](<../research-reports/留学参与、海归就业与展示证据.md>)、[成员汇编](<../study-abroad-evidence.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)；本轮补查原文或版本，并保留原核查状态。
+- **贡献与核查**　[R11](<contributions/留学成本、家庭资源与就业回报.md>)、[R12](<contributions/留学参与、海归就业与展示证据.md>)、[成员汇编](<contributions/study-abroad-evidence.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)；本轮补查原文或版本，并保留原核查状态。
 
 ## E19
 
@@ -289,7 +289,7 @@ BCSPS纵向研究N=2,255；家庭背景和学业能力均影响留学意愿和�
 - **支持的推断**　收入情景与模型预测海外读研概率的关系。
 - **局限**　模型设定依赖；不等于收入政策的处理效应。
 - **相关理论**　地位获得、教育不平等、MMI/EMI。
-- **贡献与核查**　[R12](<../research-reports/留学参与、海归就业与展示证据.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R12](<contributions/留学参与、海归就业与展示证据.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E20
 
@@ -300,11 +300,11 @@ BCSPS纵向研究N=2,255；家庭背景和学业能力均影响留学意愿和�
 - **数值与单位**　OR 1.569 / 1.662 / 2.174
 - **总体、样本与时间**　北大毕业生，调查 N=1,417；Table 3 各规格 N=1,367。数据 2017 届；发表 2022（在线 2021）。
 - **研究设计**　单校横截面 logistic 回归。
-- **来源与定位**　[S021](source-registry.md#s021) · <https://www.tandfonline.com/doi/full/10.1080/03075079.2021.1946030> · Tables 1、3。本地 [shen-et-al-2022-abstract.html](<../sources/web/shen-et-al-2022-abstract.html>)。
+- **来源与定位**　[S021](source-registry.md#s021) · <https://www.tandfonline.com/doi/full/10.1080/03075079.2021.1946030> · Tables 1、3。本地 [shen-et-al-2022-abstract.html](<original-materials/web/shen-et-al-2022-abstract.html>)。
 - **支持的推断**　Model 1 管理阶层以农业家庭为参照且仅在 10% 水平显著；经济资本为五等份编码每一单位；既往经历 OR 来自 Model 5。
 - **局限**　工人阶层另列；概率比、百分点与 odds ratio 分开。
 - **相关理论**　地位获得、教育不平等、MMI/EMI。
-- **贡献与核查**　[R12](<../research-reports/留学参与、海归就业与展示证据.md>)、[R13](<../research-reports/留学大众化、家庭融资与阶层优势.md>)、[成员汇编](<../study-abroad-evidence.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)；本轮补查原文或版本，并保留原核查状态。
+- **贡献与核查**　[R12](<contributions/留学参与、海归就业与展示证据.md>)、[R13](<contributions/留学大众化、家庭融资与阶层优势.md>)、[成员汇编](<contributions/study-abroad-evidence.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)；本轮补查原文或版本，并保留原核查状态。
 
 ## E21
 
@@ -315,11 +315,11 @@ Du 等发现海外研究生收入存在模型差异，海外本科对应差异�
 - **数值与单位**　对数系数0.1931；作者口径19.31%，严格转换约21.3%
 - **总体、样本与时间**　本科及以上劳动力，基础 N=6,051，其中海归487，回归 N 随规格。数据 2014收入；2015调查；发表 2021。
 - **研究设计**　CHFS 匹配与收入回归。
-- **来源与定位**　[S022](source-registry.md#s022) · <https://www.drdavidzweig.com/wp-content/uploads/2022/01/do-overseas-returnees-excel-in-the-chinese-labour-market.pdf> · Table 2；正文 pp. 886–887。本地 [du-et-al-2021-abstract.html](<../sources/web/du-et-al-2021-abstract.html>)。
+- **来源与定位**　[S022](source-registry.md#s022) · <https://www.drdavidzweig.com/wp-content/uploads/2022/01/do-overseas-returnees-excel-in-the-chinese-labour-market.pdf> · Table 2；正文 pp. 886–887。本地 [du-et-al-2021-abstract.html](<original-materials/web/du-et-al-2021-abstract.html>)。
 - **支持的推断**　特定样本的海外研究生收入优势，海外本科未见显著差异。
 - **局限**　择业、回国与未观测能力选择，非当前总体因果效应。
 - **相关理论**　人力资本、累积优势、就业选择。
-- **贡献与核查**　[R10](<../research-reports/留学机会、资本转换与社会流动.md>)、[R11](<../research-reports/留学成本、家庭资源与就业回报.md>)、[R12](<../research-reports/留学参与、海归就业与展示证据.md>)、[R13](<../research-reports/留学大众化、家庭融资与阶层优势.md>)、[成员汇编](<../study-abroad-evidence.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)；本轮补查原文或版本，并保留原核查状态。
+- **贡献与核查**　[R10](<contributions/留学机会、资本转换与社会流动.md>)、[R11](<contributions/留学成本、家庭资源与就业回报.md>)、[R12](<contributions/留学参与、海归就业与展示证据.md>)、[R13](<contributions/留学大众化、家庭融资与阶层优势.md>)、[成员汇编](<contributions/study-abroad-evidence.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)；本轮补查原文或版本，并保留原核查状态。
 
 ## E22
 
@@ -330,11 +330,11 @@ Du研究原CHFS 37,340户/363县；本科以上N=7,727、海归647；最终N=6,0
 - **数值与单位**　37,340户、363县；7,727人/647海归；6,051人/487海归
 - **总体、样本与时间**　CHFS 全体和本科及以上筛选样本。数据 2015 CHFS；发表 2021。
 - **研究设计**　论文分析样本构造核查。
-- **来源与定位**　[S022](source-registry.md#s022) · <https://www.drdavidzweig.com/wp-content/uploads/2022/01/do-overseas-returnees-excel-in-the-chinese-labour-market.pdf> · p. 882。本地 [du-et-al-2021-abstract.html](<../sources/web/du-et-al-2021-abstract.html>)。
+- **来源与定位**　[S022](source-registry.md#s022) · <https://www.drdavidzweig.com/wp-content/uploads/2022/01/do-overseas-returnees-excel-in-the-chinese-labour-market.pdf> · p. 882。本地 [du-et-al-2021-abstract.html](<original-materials/web/du-et-al-2021-abstract.html>)。
 - **支持的推断**　用于区分调查、初筛与基础分析总体。
 - **局限**　基础分析 N 不是每张表的最终 N。
 - **相关理论**　人力资本、累积优势、就业选择。
-- **贡献与核查**　[R10](<../research-reports/留学机会、资本转换与社会流动.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R10](<contributions/留学机会、资本转换与社会流动.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E23
 
@@ -345,11 +345,11 @@ Du 等的 N=685 对应部分分析规格。
 - **数值与单位**　685人
 - **总体、样本与时间**　Du 等部分收入规格。数据 2015 CHFS；发表 2021。
 - **研究设计**　回归规格样本核查。
-- **来源与定位**　[S022](source-registry.md#s022) · <https://www.drdavidzweig.com/wp-content/uploads/2022/01/do-overseas-returnees-excel-in-the-chinese-labour-market.pdf> · Table 2 部分规格、Table 4。本地 [du-et-al-2021-abstract.html](<../sources/web/du-et-al-2021-abstract.html>)。
+- **来源与定位**　[S022](source-registry.md#s022) · <https://www.drdavidzweig.com/wp-content/uploads/2022/01/do-overseas-returnees-excel-in-the-chinese-labour-market.pdf> · Table 2 部分规格、Table 4。本地 [du-et-al-2021-abstract.html](<original-materials/web/du-et-al-2021-abstract.html>)。
 - **支持的推断**　确认规格级样本数。
 - **局限**　不将 685 用作整篇论文的 N。
 - **相关理论**　人力资本、累积优势、就业选择。
-- **贡献与核查**　[R12](<../research-reports/留学参与、海归就业与展示证据.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R12](<contributions/留学参与、海归就业与展示证据.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E24
 
@@ -360,11 +360,11 @@ Du Table 4海外研究生年收入差73,315.65元，海外本科−4,150.08元�
 - **数值与单位**　研究生+73,315.65元/年；本科−4,150.08元/年且不显著
 - **总体、样本与时间**　部分回归匹配样本，N=685。数据 2014收入；2015调查；发表 2021。
 - **研究设计**　收入水平回归、匹配。
-- **来源与定位**　[S022](source-registry.md#s022) · <https://www.drdavidzweig.com/wp-content/uploads/2022/01/do-overseas-returnees-excel-in-the-chinese-labour-market.pdf> · Table 4。本地 [du-et-al-2021-abstract.html](<../sources/web/du-et-al-2021-abstract.html>)。
+- **来源与定位**　[S022](source-registry.md#s022) · <https://www.drdavidzweig.com/wp-content/uploads/2022/01/do-overseas-returnees-excel-in-the-chinese-labour-market.pdf> · Table 4。本地 [du-et-al-2021-abstract.html](<original-materials/web/du-et-al-2021-abstract.html>)。
 - **支持的推断**　按学历层次比较水平模型差额。
 - **局限**　非 E21 的直接百分比换算；共同来源而非复制研究。
 - **相关理论**　人力资本、累积优势、就业选择。
-- **贡献与核查**　[R10](<../research-reports/留学机会、资本转换与社会流动.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R10](<contributions/留学机会、资本转换与社会流动.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E25
 
@@ -375,11 +375,11 @@ Du 等估算两年海外硕士的增量成本约需工作七至八年收回。
 - **数值与单位**　年成本约29.90万/1.479万元；增量约28.4万元/年；7–8年
 - **总体、样本与时间**　假设两年海外硕士；成本来自作者设定。数据 成本年份 unknown；CHFS 2015；发表 2021。
 - **研究设计**　简化成本与收入差模型。
-- **来源与定位**　[S022](source-registry.md#s022) · <https://www.drdavidzweig.com/wp-content/uploads/2022/01/do-overseas-returnees-excel-in-the-chinese-labour-market.pdf> · Table 4；ROI 段，约 p. 889。本地 [du-et-al-2021-abstract.html](<../sources/web/du-et-al-2021-abstract.html>)。
+- **来源与定位**　[S022](source-registry.md#s022) · <https://www.drdavidzweig.com/wp-content/uploads/2022/01/do-overseas-returnees-excel-in-the-chinese-labour-market.pdf> · Table 4；ROI 段，约 p. 889。本地 [du-et-al-2021-abstract.html](<original-materials/web/du-et-al-2021-abstract.html>)。
 - **支持的推断**　重现论文回本估计。
 - **局限**　现行学费、折现、机会成本、失业和家庭实际融资均需另建模。
 - **相关理论**　人力资本、累积优势、就业选择。
-- **贡献与核查**　[R10](<../research-reports/留学机会、资本转换与社会流动.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R10](<contributions/留学机会、资本转换与社会流动.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E26
 
@@ -394,7 +394,7 @@ Guo 等报告就业者工资的 IV 估计与劳动参与的非显著结果。
 - **支持的推断**　仅作为论文报告的 IV 数值；条件成立才可作局部因果解释。
 - **局限**　排除限制、出国/回国/就业选择和估计对象待核。
 - **相关理论**　人力资本、累积优势、就业选择。
-- **贡献与核查**　[R10](<../research-reports/留学机会、资本转换与社会流动.md>)、[R11](<../research-reports/留学成本、家庭资源与就业回报.md>)、[R12](<../research-reports/留学参与、海归就业与展示证据.md>)、[R13](<../research-reports/留学大众化、家庭融资与阶层优势.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R10](<contributions/留学机会、资本转换与社会流动.md>)、[R11](<contributions/留学成本、家庭资源与就业回报.md>)、[R12](<contributions/留学参与、海归就业与展示证据.md>)、[R13](<contributions/留学大众化、家庭融资与阶层优势.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E27
 
@@ -409,7 +409,7 @@ Zhai & Gao N=756，包括347名英国硕士海归、409名国内硕士；国内�
 - **支持的推断**　样本中本土硕士在研究所测代际流动指标表现较好。
 - **局限**　家庭起点和筛选不同；需复核指标能否测相对流动。
 - **相关理论**　地位获得、代际流动、阶层再生产。
-- **贡献与核查**　[R10](<../research-reports/留学机会、资本转换与社会流动.md>)、[R12](<../research-reports/留学参与、海归就业与展示证据.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R10](<contributions/留学机会、资本转换与社会流动.md>)、[R12](<contributions/留学参与、海归就业与展示证据.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E28
 
@@ -424,7 +424,7 @@ Zhai & Gao N=756，包括347名英国硕士海归、409名国内硕士；国内�
 - **支持的推断**　国际毕业生更集中于东部和核心城市。
 - **局限**　地理流动不测父母与子女的职业阶层。
 - **相关理论**　地位获得、代际流动、阶层再生产。
-- **贡献与核查**　[R10](<../research-reports/留学机会、资本转换与社会流动.md>)、[R12](<../research-reports/留学参与、海归就业与展示证据.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R10](<contributions/留学机会、资本转换与社会流动.md>)、[R12](<contributions/留学参与、海归就业与展示证据.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E29
 
@@ -439,7 +439,7 @@ Zhai & Gao N=756，包括347名英国硕士海归、409名国内硕士；国内�
 - **支持的推断**　学历标签影响实验岗位的招聘反馈。
 - **局限**　回访与录用、入职工资、生产率分别测量。
 - **相关理论**　学历信号、人力资本、社会资本、文化资本与场域。
-- **贡献与核查**　[R11](<../research-reports/留学成本、家庭资源与就业回报.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R11](<contributions/留学成本、家庭资源与就业回报.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E30
 
@@ -454,7 +454,7 @@ Mingyu Chen发送>27,000份虚构申请，美国大学学历者callback平均低
 - **支持的推断**　估计地点/教育标签对实验中的回访效应。
 - **局限**　和 E29 不同设计和处理；换引用版本时需核百分比。
 - **相关理论**　学历信号、人力资本、社会资本、文化资本与场域。
-- **贡献与核查**　[R12](<../research-reports/留学参与、海归就业与展示证据.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R12](<contributions/留学参与、海归就业与展示证据.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E31
 
@@ -469,7 +469,7 @@ Mingyu Chen发送>27,000份虚构申请，美国大学学历者callback平均低
 - **支持的推断**　描述受访者状态构成。
 - **局限**　8.05%为该分母占比，与劳动力内失业率及全国海归指标不同。
 - **相关理论**　学历信号、人力资本、社会资本、文化资本与场域。
-- **贡献与核查**　[R10](<../research-reports/留学机会、资本转换与社会流动.md>)、[R12](<../research-reports/留学参与、海归就业与展示证据.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R10](<contributions/留学机会、资本转换与社会流动.md>)、[R12](<contributions/留学参与、海归就业与展示证据.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E32
 
@@ -484,7 +484,7 @@ Mingyu Chen发送>27,000份虚构申请，美国大学学历者callback平均低
 - **支持的推断**　描述特定子样本收入分布。
 - **局限**　与 E31 分母不同；无同期可比本土对照。
 - **相关理论**　学历信号、人力资本、社会资本、文化资本与场域。
-- **贡献与核查**　[R10](<../research-reports/留学机会、资本转换与社会流动.md>)、[R12](<../research-reports/留学参与、海归就业与展示证据.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R10](<contributions/留学机会、资本转换与社会流动.md>)、[R12](<contributions/留学参与、海归就业与展示证据.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E33
 
@@ -499,7 +499,7 @@ Mingyu Chen发送>27,000份虚构申请，美国大学学历者callback平均低
 - **支持的推断**　揭示样本结构对就业及工资解读的影响。
 - **局限**　学历与单位字段分母需分别核用。
 - **相关理论**　学历信号、人力资本、社会资本、文化资本与场域。
-- **贡献与核查**　[R10](<../research-reports/留学机会、资本转换与社会流动.md>)、[R12](<../research-reports/留学参与、海归就业与展示证据.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R10](<contributions/留学机会、资本转换与社会流动.md>)、[R12](<contributions/留学参与、海归就业与展示证据.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E34
 
@@ -514,7 +514,7 @@ meta-analysis纳入17项研究、166个估计；总体工资效应小幅为正�
 - **支持的推断**　支持平均小幅正差异及高度异质性。
 - **局限**　混合学制、制度和识别策略；发表偏差及研究间不独立。
 - **相关理论**　人力资本、累积优势、就业选择。
-- **贡献与核查**　[R10](<../research-reports/留学机会、资本转换与社会流动.md>)、[R12](<../research-reports/留学参与、海归就业与展示证据.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R10](<contributions/留学机会、资本转换与社会流动.md>)、[R12](<contributions/留学参与、海归就业与展示证据.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E35
 
@@ -525,11 +525,11 @@ meta-analysis纳入17项研究、166个估计；总体工资效应小幅为正�
 - **数值与单位**　10年 kernel 匹配：高父母教育€10,636显著、低€1,509不显著；Fig. 4 两组5/10年均显著
 - **总体、样本与时间**　DZHW；PSM N=1,417、增长模型 N=1,739；至少两个月海外学习相关经历。数据 德国2005届，毕业后1/5/10年；发表 2021（在线 2020）。
 - **研究设计**　PSM 与随机效应增长模型。
-- **来源与定位**　[S030](source-registry.md#s030) · <https://link.springer.com/article/10.1007/s10734-020-00579-2> · pp. 1201–1213，Figs. 2、4；p.1213 Table 2（本地 PDF 第 20 页）。本地 [netz-gruettner-2021.pdf](<../sources/papers/netz-gruettner-2021.pdf>)。
+- **来源与定位**　[S030](source-registry.md#s030) · <https://link.springer.com/article/10.1007/s10734-020-00579-2> · pp. 1201–1213，Figs. 2、4；p.1213 Table 2（本地 PDF 第 20 页）。本地 [netz-gruettner-2021.pdf](<original-materials/papers/netz-gruettner-2021.pdf>)。
 - **支持的推断**　父母教育维度上的收益差异依模型；为同一研究补充具体估计。
 - **局限**　组内显著性之差不直接等于组间显著；非中国完整海外学历。
 - **相关理论**　人力资本、累积优势、就业选择。
-- **贡献与核查**　[R10](<../research-reports/留学机会、资本转换与社会流动.md>)、[成员汇编](<../study-abroad-evidence.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)；本轮补查原文或版本，并保留原核查状态。
+- **贡献与核查**　[R10](<contributions/留学机会、资本转换与社会流动.md>)、[成员汇编](<contributions/study-abroad-evidence.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)；本轮补查原文或版本，并保留原核查状态。
 
 ## E36
 
@@ -544,7 +544,7 @@ meta-analysis纳入17项研究、166个估计；总体工资效应小幅为正�
 - **支持的推断**　就业相关差异因国家、结局与观察期而变。
 - **局限**　匹配仅控制可观测选择；研究对象不同于中国海归。
 - **相关理论**　学历信号、人力资本、社会资本、文化资本与场域。
-- **贡献与核查**　[R10](<../research-reports/留学机会、资本转换与社会流动.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R10](<contributions/留学机会、资本转换与社会流动.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E37
 
@@ -555,11 +555,11 @@ Peng 2025质性研究N=100，海外学历价值越来越依赖学校、目的地
 - **数值与单位**　100名海归
 - **总体、样本与时间**　100名中国海归加关键知情人；非概率样本。数据 2022–2024 返国者研究窗口；访谈确切日期见原文；发表 2025。
 - **研究设计**　深度访谈。
-- **来源与定位**　[S032](source-registry.md#s032) · <https://www.tandfonline.com/doi/full/10.1080/01425692.2025.2519491> · pp. 819–829；学历层级、回流与就业。本地 [peng-2025-abstract.html](<../sources/web/peng-2025-abstract.html>)。
+- **来源与定位**　[S032](source-registry.md#s032) · <https://www.tandfonline.com/doi/full/10.1080/01425692.2025.2519491> · pp. 819–829；学历层级、回流与就业。本地 [peng-2025-abstract.html](<original-materials/web/peng-2025-abstract.html>)。
 - **支持的推断**　记录学历的制度化文化资本如何随时间、场域和学历组合被评价。
 - **局限**　雇主感知与自述，不能估计普遍偏好或工资效应。
 - **相关理论**　人力资本、社会资本、文化资本、EMI。
-- **贡献与核查**　[R10](<../research-reports/留学机会、资本转换与社会流动.md>)、[R12](<../research-reports/留学参与、海归就业与展示证据.md>)、[成员汇编](<../study-abroad-evidence.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)；本轮补查原文或版本，并保留原核查状态。
+- **贡献与核查**　[R10](<contributions/留学机会、资本转换与社会流动.md>)、[R12](<contributions/留学参与、海归就业与展示证据.md>)、[成员汇编](<contributions/study-abroad-evidence.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)；本轮补查原文或版本，并保留原核查状态。
 
 ## E38
 
@@ -574,7 +574,7 @@ Peng 2026中90名/97%依靠父母资助海外教育；71名/76.3%在回国求职
 - **支持的推断**　说明资金、建议与网络可持续到返国求职。
 - **局限**　样本内比例，资金与关系的作用未单独识别。
 - **相关理论**　人力资本、社会资本、文化资本、EMI。
-- **贡献与核查**　[R12](<../research-reports/留学参与、海归就业与展示证据.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R12](<contributions/留学参与、海归就业与展示证据.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E39
 
@@ -589,7 +589,7 @@ Peng 2026中90名/97%依靠父母资助海外教育；71名/76.3%在回国求职
 - **支持的推断**　提出家庭资源影响风险与探索空间的机制。
 - **局限**　未量化总体风险或支持的因果效应。
 - **相关理论**　人力资本、社会资本、文化资本、EMI。
-- **贡献与核查**　[R10](<../research-reports/留学机会、资本转换与社会流动.md>)、[R11](<../research-reports/留学成本、家庭资源与就业回报.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R10](<contributions/留学机会、资本转换与社会流动.md>)、[R11](<contributions/留学成本、家庭资源与就业回报.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E40
 
@@ -604,7 +604,7 @@ Peng 2026中90名/97%依靠父母资助海外教育；71名/76.3%在回国求职
 - **支持的推断**　已进入者可能把留学用于职业重规划与自主性。
 - **局限**　条件于成功参与；不观察未进入者或长期代际结果。
 - **相关理论**　地位获得、教育不平等、MMI/EMI。
-- **贡献与核查**　[R10](<../research-reports/留学机会、资本转换与社会流动.md>)、[R11](<../research-reports/留学成本、家庭资源与就业回报.md>)、[R13](<../research-reports/留学大众化、家庭融资与阶层优势.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R10](<contributions/留学机会、资本转换与社会流动.md>)、[R11](<contributions/留学成本、家庭资源与就业回报.md>)、[R13](<contributions/留学大众化、家庭融资与阶层优势.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E41
 
@@ -619,7 +619,7 @@ Peng 2026中90名/97%依靠父母资助海外教育；71名/76.3%在回国求职
 - **支持的推断**　比较同口径美国目的地的规模和构成。
 - **局限**　仍有非学位类别；不能与教育部年度新出国人数相加。
 - **相关理论**　教育扩张、MMI。
-- **贡献与核查**　[R13](<../research-reports/留学大众化、家庭融资与阶层优势.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)；本轮补查原文或版本，并保留原核查状态。
+- **贡献与核查**　[R13](<contributions/留学大众化、家庭融资与阶层优势.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)；本轮补查原文或版本，并保留原核查状态。
 
 ## E42
 
@@ -634,7 +634,7 @@ Peng 2026中90名/97%依靠父母资助海外教育；71名/76.3%在回国求职
 - **支持的推断**　反映澳洲在读及继续就读人数。
 - **局限**　与签证签发数、注册次数及新入学生口径不同。
 - **相关理论**　教育扩张、MMI。
-- **贡献与核查**　[R13](<../research-reports/留学大众化、家庭融资与阶层优势.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R13](<contributions/留学大众化、家庭融资与阶层优势.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E43
 
@@ -649,7 +649,7 @@ Peng 2026中90名/97%依靠父母资助海外教育；71名/76.3%在回国求职
 - **支持的推断**　描述许可量及续签口径。
 - **局限**　非入学人数或自然年在读存量。
 - **相关理论**　教育扩张、MMI。
-- **贡献与核查**　[R13](<../research-reports/留学大众化、家庭融资与阶层优势.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R13](<contributions/留学大众化、家庭融资与阶层优势.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E44
 
@@ -664,7 +664,7 @@ Peng 2026中90名/97%依靠父母资助海外教育；71名/76.3%在回国求职
 - **支持的推断**　说明两个来源国的合计份额。
 - **局限**　47% 不能拆作中国单独占比。
 - **相关理论**　教育扩张、MMI。
-- **贡献与核查**　[R13](<../research-reports/留学大众化、家庭融资与阶层优势.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R13](<contributions/留学大众化、家庭融资与阶层优势.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E45
 
@@ -679,7 +679,7 @@ R11 的成本币种换算尚无可复算的年均和交叉汇率记录。
 - **支持的推断**　已有外币数据保留原币表达。
 - **局限**　同一年、币种方向、时点与价格基准待复核。
 - **相关理论**　经济资本、财富不平等、人力资本投资。
-- **贡献与核查**　[R11](<../research-reports/留学成本、家庭资源与就业回报.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R11](<contributions/留学成本、家庭资源与就业回报.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E46
 
@@ -694,7 +694,7 @@ R11/R13 引用的商业调查收入与预算尚待全文和抽样核查。
 - **支持的推断**　可保留商业调查线索。
 - **局限**　缺完整样本及原始表；不能外推全国。
 - **相关理论**　经济资本、财富不平等、人力资本投资。
-- **贡献与核查**　[R11](<../research-reports/留学成本、家庭资源与就业回报.md>)、[R13](<../research-reports/留学大众化、家庭融资与阶层优势.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R11](<contributions/留学成本、家庭资源与就业回报.md>)、[R13](<contributions/留学大众化、家庭融资与阶层优势.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E47
 
@@ -709,7 +709,7 @@ UIS 数据的中国 2023 年境外流动高教学生存量和比例仍需固定�
 - **支持的推断**　给出存量的数量级和比率定义。
 - **局限**　应固定版本与分母；和年度流量分别展示。
 - **相关理论**　教育扩张、MMI。
-- **贡献与核查**　[R10](<../research-reports/留学机会、资本转换与社会流动.md>)、[R11](<../research-reports/留学成本、家庭资源与就业回报.md>)、[R13](<../research-reports/留学大众化、家庭融资与阶层优势.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R10](<contributions/留学机会、资本转换与社会流动.md>)、[R11](<contributions/留学成本、家庭资源与就业回报.md>)、[R13](<contributions/留学大众化、家庭融资与阶层优势.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E48
 
@@ -724,7 +724,7 @@ UIS 对中国大陆赴港澳学生的特殊地理编码尚未确认。
 - **支持的推断**　保留大陆与港澳统计归类问题。
 - **局限**　通用跨境定义不足以确定特例。
 - **相关理论**　教育扩张、MMI。
-- **贡献与核查**　[R13](<../research-reports/留学大众化、家庭融资与阶层优势.md>)。[继承 R14](../research-reports/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R13](<contributions/留学大众化、家庭融资与阶层优势.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
 
 ## E49
 
@@ -735,11 +735,11 @@ UIS 对中国大陆赴港澳学生的特殊地理编码尚未确认。
 - **数值与单位**　毕业5年后失业率相对低23%
 - **总体、样本与时间**　欧洲有/无海外学习或培训经历的校友；该估计 N unknown。数据 约2013调查；毕业五年；发表 2014。
 - **研究设计**　Erasmus 跨组校友调查比较。
-- **来源与定位**　[S044](source-registry.md#s044)、[S045](source-registry.md#s045) · <https://op.europa.eu/en/publication-detail/-/publication/13031399-9fd4-11e5-8781-01aa75ed71a1>；<https://ec.europa.eu/commission/presscorner/api/files/document/print/ca/ip_14_1025/IP_14_1025_EN.pdf> · 完整报告 p.134（本地 PDF 第 135 页），How does mobility affect employment and career?；新闻稿 p.1。本地 [erasmus-impact-study-2014.pdf](<../sources/reports/erasmus-impact-study-2014.pdf>)；[erasmus-publication.html](<../sources/web/erasmus-publication.html>)；[erasmus-commission-press-release-2014.pdf](<../sources/reports/erasmus-commission-press-release-2014.pdf>)。
+- **来源与定位**　[S044](source-registry.md#s044)、[S045](source-registry.md#s045) · <https://op.europa.eu/en/publication-detail/-/publication/13031399-9fd4-11e5-8781-01aa75ed71a1>；<https://ec.europa.eu/commission/presscorner/api/files/document/print/ca/ip_14_1025/IP_14_1025_EN.pdf> · 完整报告 p.134（本地 PDF 第 135 页），How does mobility affect employment and career?；新闻稿 p.1。本地 [erasmus-impact-study-2014.pdf](<original-materials/reports/erasmus-impact-study-2014.pdf>)；[erasmus-publication.html](<original-materials/web/erasmus-publication.html>)；[erasmus-commission-press-release-2014.pdf](<original-materials/reports/erasmus-commission-press-release-2014.pdf>)。
 - **支持的推断**　在报告所比较的欧洲群体中，有国际经历组的失业率较低。
 - **局限**　相对百分比，非23个百分点；参与选择与欧洲制度；报告和新闻稿同一证据。
 - **相关理论**　学历信号、人力资本、社会资本、文化资本与场域。
-- **贡献与核查**　[成员汇编](<../study-abroad-evidence.md>)。本轮对照原件或记录可访问限制。 成员汇编；本轮核对全文。
+- **贡献与核查**　[成员汇编](<contributions/study-abroad-evidence.md>)。本轮对照原件或记录可访问限制。 成员汇编；本轮核对全文。
 
 ## E50
 
@@ -750,11 +750,11 @@ UIS 对中国大陆赴港澳学生的特殊地理编码尚未确认。
 - **数值与单位**　长期失业风险相对约低50%
 - **总体、样本与时间**　欧洲有/无海外学习或培训经历的校友；该估计 N unknown。数据 约2013调查；毕业后；发表 2014。
 - **研究设计**　Erasmus 跨组校友调查比较。
-- **来源与定位**　[S044](source-registry.md#s044)、[S045](source-registry.md#s045) · <https://op.europa.eu/en/publication-detail/-/publication/13031399-9fd4-11e5-8781-01aa75ed71a1>；<https://ec.europa.eu/commission/presscorner/api/files/document/print/ca/ip_14_1025/IP_14_1025_EN.pdf> · 完整报告 p.134（本地 PDF 第 135 页），How does mobility affect employment and career?；新闻稿 p.1。本地 [erasmus-impact-study-2014.pdf](<../sources/reports/erasmus-impact-study-2014.pdf>)；[erasmus-publication.html](<../sources/web/erasmus-publication.html>)；[erasmus-commission-press-release-2014.pdf](<../sources/reports/erasmus-commission-press-release-2014.pdf>)。
+- **来源与定位**　[S044](source-registry.md#s044)、[S045](source-registry.md#s045) · <https://op.europa.eu/en/publication-detail/-/publication/13031399-9fd4-11e5-8781-01aa75ed71a1>；<https://ec.europa.eu/commission/presscorner/api/files/document/print/ca/ip_14_1025/IP_14_1025_EN.pdf> · 完整报告 p.134（本地 PDF 第 135 页），How does mobility affect employment and career?；新闻稿 p.1。本地 [erasmus-impact-study-2014.pdf](<original-materials/reports/erasmus-impact-study-2014.pdf>)；[erasmus-publication.html](<original-materials/web/erasmus-publication.html>)；[erasmus-commission-press-release-2014.pdf](<original-materials/reports/erasmus-commission-press-release-2014.pdf>)。
 - **支持的推断**　支持特定长期失业结局的样本差异。
 - **局限**　与 E49 时间窗/结局不同，共用同一报告样本；不能直接外推中国。
 - **相关理论**　学历信号、人力资本、社会资本、文化资本与场域。
-- **贡献与核查**　[成员汇编](<../study-abroad-evidence.md>)。本轮对照原件或记录可访问限制。 成员汇编；本轮核对全文。
+- **贡献与核查**　[成员汇编](<contributions/study-abroad-evidence.md>)。本轮对照原件或记录可访问限制。 成员汇编；本轮核对全文。
 
 ## E51
 
@@ -765,11 +765,11 @@ UIS 对中国大陆赴港澳学生的特殊地理编码尚未确认。
 - **数值与单位**　工人家庭11.6%→5.9%；农业家庭7.0%→1.4%；干部管理组42.8%→54.1%；专业组26.9%→32.4%
 - **总体、样本与时间**　北大毕业生 N=1,417；比较调查样本与获得海外 offer 子组。数据 2017 届；发表 2022（在线 2021）。
 - **研究设计**　北大单校调查组成比较。
-- **来源与定位**　[S021](source-registry.md#s021) · <https://www.tandfonline.com/doi/full/10.1080/03075079.2021.1946030> · p.1606，Table 2。本地 [shen-et-al-2022-abstract.html](<../sources/web/shen-et-al-2022-abstract.html>)。
+- **来源与定位**　[S021](source-registry.md#s021) · <https://www.tandfonline.com/doi/full/10.1080/03075079.2021.1946030> · p.1606，Table 2。本地 [shen-et-al-2022-abstract.html](<original-materials/web/shen-et-al-2022-abstract.html>)。
 - **支持的推断**　比较两组的家庭出身构成，与 E20 回归互补。
 - **局限**　分母分别为全体受访者和获 offer 者；比例不是分阶层录取率；同一论文。
 - **相关理论**　地位获得、教育不平等、MMI/EMI。
-- **贡献与核查**　[R13](<../research-reports/留学大众化、家庭融资与阶层优势.md>)、[成员汇编](<../study-abroad-evidence.md>)。本轮对照原件或记录可访问限制。 成员汇编；R13 已有部分数字；本轮核对全文。
+- **贡献与核查**　[R13](<contributions/留学大众化、家庭融资与阶层优势.md>)、[成员汇编](<contributions/study-abroad-evidence.md>)。本轮对照原件或记录可访问限制。 成员汇编；R13 已有部分数字；本轮核对全文。
 
 ## E52
 
@@ -780,11 +780,11 @@ UIS 对中国大陆赴港澳学生的特殊地理编码尚未确认。
 - **数值与单位**　42% vs 27%，差15个百分点
 - **总体、样本与时间**　至少一位父母高教 vs 双亲无高教学历；描述性参与比较分母 N 未单列。数据 德国2005届；发表 2021（在线 2020）。
 - **研究设计**　DZHW 面板内描述性比较。
-- **来源与定位**　[S030](source-registry.md#s030) · <https://link.springer.com/article/10.1007/s10734-020-00579-2> · p.1202，Variables。本地 [netz-gruettner-2021.pdf](<../sources/papers/netz-gruettner-2021.pdf>)。
+- **来源与定位**　[S030](source-registry.md#s030) · <https://link.springer.com/article/10.1007/s10734-020-00579-2> · p.1202，Variables。本地 [netz-gruettner-2021.pdf](<original-materials/papers/netz-gruettner-2021.pdf>)。
 - **支持的推断**　家庭教育背景与研究中两个月以上学业相关国际经历参与率相关。
 - **局限**　德国限定样本，包括学习、实习、语言等；与 E35 同一研究，结局不同。
 - **相关理论**　地位获得、教育不平等、MMI/EMI。
-- **贡献与核查**　[成员汇编](<../study-abroad-evidence.md>)。本轮对照原件或记录可访问限制。 成员汇编；本轮核对本地全文。
+- **贡献与核查**　[成员汇编](<contributions/study-abroad-evidence.md>)。本轮对照原件或记录可访问限制。 成员汇编；本轮核对本地全文。
 
 ## E53
 
@@ -795,11 +795,11 @@ UIS 对中国大陆赴港澳学生的特殊地理编码尚未确认。
 - **数值与单位**　16人借家庭网络获得工作，其中9人由父母资助完成海外本科与硕士
 - **总体、样本与时间**　100名中国海归；16人子集中9人。数据 访谈时间见原文；返国研究窗口2022–2024；发表 2025。
 - **研究设计**　海归访谈样本计数。
-- **来源与定位**　[S032](source-registry.md#s032) · <https://www.tandfonline.com/doi/full/10.1080/01425692.2025.2519491> · p.828，Social capital of returnees。本地 [peng-2025-abstract.html](<../sources/web/peng-2025-abstract.html>)。
+- **来源与定位**　[S032](source-registry.md#s032) · <https://www.tandfonline.com/doi/full/10.1080/01425692.2025.2519491> · p.828，Social capital of returnees。本地 [peng-2025-abstract.html](<original-materials/web/peng-2025-abstract.html>)。
 - **支持的推断**　家庭关系可延续到实际求职，部分长时海外经历者以家庭网络弥补本地关系缺乏。
 - **局限**　9人为16人子集；访谈自述与非概率样本；同 E37 来源，E38 为另一研究。
 - **相关理论**　人力资本、社会资本、文化资本、EMI。
-- **贡献与核查**　[成员汇编](<../study-abroad-evidence.md>)。本轮对照原件或记录可访问限制。 成员汇编；本轮核对出版商正文。
+- **贡献与核查**　[成员汇编](<contributions/study-abroad-evidence.md>)。本轮对照原件或记录可访问限制。 成员汇编；本轮核对出版商正文。
 
 ## E54
 
@@ -810,11 +810,11 @@ Du 等也报告海外学历的职业和职位结果，差异主要出现在研�
 - **数值与单位**　海外研究生部门负责人边际差 +0.1419；服务/商业 +0.0880；职位部分估计仅10%显著
 - **总体、样本与时间**　Du 等匹配样本；Table 5 Panel A N=630。数据 2014结果；CHFS 2015；发表 2021。
 - **研究设计**　匹配样本的职业多项 logit 与职位模型。
-- **来源与定位**　[S022](source-registry.md#s022) · <https://www.drdavidzweig.com/wp-content/uploads/2022/01/do-overseas-returnees-excel-in-the-chinese-labour-market.pdf> · pp.890–892，Table 5；企业类型段。本地 [du-et-al-2021-abstract.html](<../sources/web/du-et-al-2021-abstract.html>)。
+- **来源与定位**　[S022](source-registry.md#s022) · <https://www.drdavidzweig.com/wp-content/uploads/2022/01/do-overseas-returnees-excel-in-the-chinese-labour-market.pdf> · pp.890–892，Table 5；企业类型段。本地 [du-et-al-2021-abstract.html](<original-materials/web/du-et-al-2021-abstract.html>)。
 - **支持的推断**　在该样本中海外研究生与职业构成、组织和职位相关；海外本科几无显著差异。
 - **局限**　边际概率差与工资系数要分开；选择和组织构成；同 E21–E25。
 - **相关理论**　学历信号、人力资本、社会资本、文化资本与场域。
-- **贡献与核查**　[成员汇编](<../study-abroad-evidence.md>)。本轮对照原件或记录可访问限制。 成员汇编；本轮核对作者全文。
+- **贡献与核查**　[成员汇编](<contributions/study-abroad-evidence.md>)。本轮对照原件或记录可访问限制。 成员汇编；本轮核对作者全文。
 
 ## E55
 
@@ -829,7 +829,7 @@ Du 等也报告海外学历的职业和职位结果，差异主要出现在研�
 - **支持的推断**　若 IV 假设成立，受机会变动影响者的未来海外工作概率上升。
 - **局限**　工作所在地与就业概率、工资或代际阶层不同；是不同于 E49–E50 的研究。
 - **相关理论**　学历信号、人力资本、社会资本、文化资本与场域。
-- **贡献与核查**　[R10](<../research-reports/留学机会、资本转换与社会流动.md>)、[R12](<../research-reports/留学参与、海归就业与展示证据.md>)、[R14](<../research-reports/四份留学研究报告的证据审计.md>)。本轮对照原件或记录可访问限制。 R10/R12；R14 附录曾未定位表；本轮核对原表。
+- **贡献与核查**　[R10](<contributions/留学机会、资本转换与社会流动.md>)、[R12](<contributions/留学参与、海归就业与展示证据.md>)、[R14](<contributions/四份留学研究报告的证据审计.md>)。本轮对照原件或记录可访问限制。 R10/R12；R14 附录曾未定位表；本轮核对原表。
 
 ## E56
 
@@ -844,7 +844,7 @@ Du 等也报告海外学历的职业和职位结果，差异主要出现在研�
 - **支持的推断**　摘要支持国外学位组较低就业概率和较高过度教育风险的方向。
 - **局限**　全文和工资的确切规格未核；不迁移至中国。
 - **相关理论**　学历信号、人力资本、社会资本、文化资本与场域。
-- **贡献与核查**　[R12](<../research-reports/留学参与、海归就业与展示证据.md>)。本轮对照原件或记录可访问限制。 R12；本轮核对原始摘要。
+- **贡献与核查**　[R12](<contributions/留学参与、海归就业与展示证据.md>)。本轮对照原件或记录可访问限制。 R12；本轮核对原始摘要。
 
 ## E57
 
@@ -859,7 +859,7 @@ R12 所引两年海归优先职位的招聘月薪数值尚待定位。
 - **支持的推断**　提示可寻找职位要约薪酬数据。
 - **局限**　平台职位、样本组成与实际工资不同；完整两年表未核。
 - **相关理论**　学历信号、人力资本、社会资本、文化资本与场域。
-- **贡献与核查**　[R12](<../research-reports/留学参与、海归就业与展示证据.md>)、[R14](<../research-reports/四份留学研究报告的证据审计.md>)。本轮对照原件或记录可访问限制。 R12；R14 附录。
+- **贡献与核查**　[R12](<contributions/留学参与、海归就业与展示证据.md>)、[R14](<contributions/四份留学研究报告的证据审计.md>)。本轮对照原件或记录可访问限制。 R12；R14 附录。
 
 ## E58
 
@@ -870,11 +870,11 @@ R12 所引两年海归优先职位的招聘月薪数值尚待定位。
 - **数值与单位**　个案计划约5万元；另一案例向中介实付约68万元（不同项目）
 - **总体、样本与时间**　中国家庭、学生与留学中介；相关中国访谈34；另有意大利田野。数据 论文2015 中国；2017 意大利；发表 2019（在线2018）。
 - **研究设计**　多点民族志、访谈和观察。
-- **来源与定位**　[S046](source-registry.md#s046) · <https://doi.org/10.1111/imig.12515> · 开篇；Interactions between parents, students and private agents；注1。本地 [lan-2019.pdf](<../sources/papers/lan-2019.pdf>)。
+- **来源与定位**　[S046](source-registry.md#s046) · <https://doi.org/10.1111/imig.12515> · 开篇；Interactions between parents, students and private agents；注1。本地 [lan-2019.pdf](<original-materials/papers/lan-2019.pdf>)。
 - **支持的推断**　关系与中介是经济资本向教育选择转化的渠道，也带来辨识成本。
 - **局限**　不同个人、时点、费用用途；花费和最后入学、职业结果须分别核查。
 - **相关理论**　经济资本、财富不平等、人力资本投资。
-- **贡献与核查**　[成员汇编](<../study-abroad-evidence.md>)。本轮对照原件或记录可访问限制。 成员汇编；本轮核对本地全文。
+- **贡献与核查**　[成员汇编](<contributions/study-abroad-evidence.md>)。本轮对照原件或记录可访问限制。 成员汇编；本轮核对本地全文。
 
 ## E59
 
@@ -889,7 +889,7 @@ R12 提出海归在本地知识和国内外网络方面的资源可能不对称�
 - **支持的推断**　提出国际技能和地方知识可能互补的研究线索。
 - **局限**　当前未核原文，不能把 dual guanxi 写为已证机制。
 - **相关理论**　人力资本、社会资本、文化资本、EMI。
-- **贡献与核查**　[R12](<../research-reports/留学参与、海归就业与展示证据.md>)。本轮对照原件或记录可访问限制。 R12；本轮 DOI 正文受限。
+- **贡献与核查**　[R12](<contributions/留学参与、海归就业与展示证据.md>)。本轮对照原件或记录可访问限制。 R12；本轮 DOI 正文受限。
 
 ## E60
 
@@ -904,7 +904,7 @@ R12 提出海归在本地知识和国内外网络方面的资源可能不对称�
 - **支持的推断**　同一高校的三类毕业意向组有不同家庭构成。
 - **局限**　构成比例的分母是意向组，非城乡家庭各自意向率。为意向而非实现，无全国代表性。
 - **相关理论**　地位获得、教育不平等、文化和经济资本。
-- **贡献与核查**　[R10](../research-reports/留学机会、资本转换与社会流动.md)；本轮定位原表，补 R14 附录所列缺口。
+- **贡献与核查**　[R10](contributions/留学机会、资本转换与社会流动.md)；本轮定位原表，补 R14 附录所列缺口。
 
 ## E61
 
@@ -915,11 +915,11 @@ R12 提出海归在本地知识和国内外网络方面的资源可能不对称�
 - **数值与单位**　描述样本 N=4,177，海外读研加权比例 9.6%。回归系数见 Table 7。
 - **总体、样本与时间**　北京高校本科毕业生。数据 2010、2012 届；发表 2016。
 - **研究设计**　毕业去向的多分类 logit，原文另有 KHB 分析。
-- **来源与定位**　[S081](source-registry.md#s081)、[S051](source-registry.md#s051) · [《社会》原文](https://html.rhhz.net/society/html/20160304.htm) · Tables 2、7，结果第三部分。项目介绍本地为 [BCSPS](../sources/web/bcsps-project.html)，论文无本地副本。
+- **来源与定位**　[S081](source-registry.md#s081)、[S051](source-registry.md#s051) · [《社会》原文](https://html.rhhz.net/society/html/20160304.htm) · Tables 2、7，结果第三部分。项目介绍本地为 [BCSPS](original-materials/web/bcsps-project.html)，论文无本地副本。
 - **支持的推断**　在该高校样本中，家庭出身与出国/国内读研的条件关联不同于国内读研/工作。
 - **局限**　既有高校筛选与潜在混杂；与 E18 共享调查体系，不能自动视为独立样本。
 - **相关理论**　地位获得、多阶段教育选择、经济资本。
-- **贡献与核查**　[R10](../research-reports/留学机会、资本转换与社会流动.md)；本轮核在线全文。
+- **贡献与核查**　[R10](contributions/留学机会、资本转换与社会流动.md)；本轮核在线全文。
 
 ## E62
 
@@ -934,7 +934,7 @@ R12 提出海归在本地知识和国内外网络方面的资源可能不对称�
 - **支持的推断**　可作国内基础教育如何衡量家庭投入的背景资料。
 - **局限**　涵盖中小学而非海外高等教育；不能作为留学费用或家庭承担能力的实测。
 - **相关理论**　经济资本、教育投入、教育不平等。
-- **贡献与核查**　[R11](../research-reports/留学成本、家庭资源与就业回报.md)；本轮对照期刊原文。与 E63 分层口径不同。
+- **贡献与核查**　[R11](contributions/留学成本、家庭资源与就业回报.md)；本轮对照期刊原文。与 E63 分层口径不同。
 
 ## E63
 
@@ -949,4 +949,4 @@ CIEFR-HS 的另一篇分析列出小学生、初中生家庭的城乡生均支�
 - **支持的推断**　家庭教育投入的描述值随学段、城乡和观测样本而异。
 - **局限**　实际留学成本另测。和 E62 共用部分调查，样本及分母不同，无投入变化的因果识别。
 - **相关理论**　经济资本、城乡教育不平等。
-- **贡献与核查**　[R11](../research-reports/留学成本、家庭资源与就业回报.md)；本轮定位 Table 7。
+- **贡献与核查**　[R11](contributions/留学成本、家庭资源与就业回报.md)；本轮定位 Table 7。

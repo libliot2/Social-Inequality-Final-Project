@@ -1,6 +1,6 @@
 # Cross-study Matrix
 
-[研究模块](../../README.md#研究模块) · [证据库](../evidence-master.md) · [方法更新](methodological-review.md)
+[研究模块](../README.md#研究模块) · [证据库](../evidence/evidence-master.md) · [方法更新](methodological-review.md)
 
 | 比较主题 | 证据、对象及结局 | 一致性、张力及可比边界 | 下一项判别检查 |
 | --- | --- | --- | --- |
@@ -14,4 +14,4 @@
 | 核心城市与代际位置 | E27 比较硕士流动；E28 同一相关调查中的空间结果；E55 工作地；E40 弱势赴英者规划 | 迁移、职业、收入和代际位置分别测量。E27 与 E28 样本描述高度重叠，不能当独立复制。E40 不观察未出国者 | 先确认 E27/E28 样本关系及 E27 流动定义，再构建可比转移表 |
 | 机会扩张与质量分层 | E01–E03/E41–E48 总量；E20/E51 家庭梯度；E37 学历层级 | 总量变化与出身差异可共存。缺长期、同口径、分 SES 的参与及院校质量序列，尚未直接检验纵向差距是否向横向转移 | 检验按出身与年份的接受 offer、院校声誉、学位层级、资助及实习轨道 |
 
-按 Evidence ID 查具体分母、状态及来源。[Evidence Master](../evidence-master.md) · [真实案例](../case-bank.md)
+按 Evidence ID 查具体分母、状态及来源。[Evidence Master](../evidence/evidence-master.md) · [真实案例](../evidence/case-bank.md)

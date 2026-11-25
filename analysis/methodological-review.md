@@ -1,8 +1,8 @@
-# Methodological Review｜方法审查及原综合报告补遗
+# Methodological Review｜方法审查
 
-[原完整综合报告](../../research-reports/海外留学、社会不平等与社会流动的方法论审查与证据综合.md) · [R14 核查表](../../research-reports/四份留学研究报告的证据审计.md#verification-table) · [证据库](../evidence-master.md)
+[完整方法审查工作稿](working-notes/海外留学、社会不平等与社会流动的方法论审查与证据综合.md) · [R14 核查表](../evidence/contributions/四份留学研究报告的证据审计.md#verification-table) · [证据库](../evidence/evidence-master.md)
 
-保留原完整方法分析。以下更新针对新增材料、此前编号和口径冲突，以及更适合独立编入知识库的比较。
+完整工作稿记录逐篇方法分析。下文概括研究设计、编号和口径冲突，以及工作稿形成后核查的材料。
 
 ## 本轮增补
 
@@ -30,8 +30,8 @@
 - Chen 的工作论文与期刊版使用同一研究。E30 保留 R14 工作论文所引 18% 口径，引用期刊版时需按对应规格重新核引。
 - R14 对 E05、E45、E46、E48 未充分确认，E47 国家—年份行及版本仍待核。E41 的 2024/25 比上年 −4.1% 与 2025/26 再比上年的降幅是不同区间。
 - 拿 E21 的 0.1931 直接当百分比是作者表述约定。严格转换使用 exp(0.1931)−1。E25 的 7–8 年为简化增量成本估计。
-- 课程要求是最终展示结合 1–3 个课程概念与真实案例。当前尚处探索阶段，证据间张力和多个问题继续保留。讲义的页码沿用原综合报告，当前仓库没有课堂讲义原件供复核。[课程 PDF](../../GroupPresentationInstruction202627Fall.pdf)
+- 课程要求是最终展示结合 1–3 个课程概念与真实案例。当前尚处探索阶段，证据间张力和多个问题继续保留。讲义的页码沿用原综合报告，当前仓库没有课堂讲义原件供复核。[课程 PDF](../course/GroupPresentationInstruction202627Fall.pdf)
 
 ## 核查记录如何解释
 
-E01–E48 共 39 Verified、5 Partially Verified、4 Unverified，状态继承 R14。本轮对子集做原文复查。E49–E63 共 12 Verified、1 Partially Verified、2 Unverified。这里的 Verified 是对应发现和口径可核，不是研究质量总分。来源背后的设计、样本分母和统计结局仍须分别记录。[来源登记](../source-registry.md)
+E01–E48 共 39 Verified、5 Partially Verified、4 Unverified，状态继承 R14。本轮对子集做原文复查。E49–E63 共 12 Verified、1 Partially Verified、2 Unverified。这里的 Verified 是对应发现和口径可核，不是研究质量总分。来源背后的设计、样本分母和统计结局仍须分别记录。[来源登记](../evidence/source-registry.md)

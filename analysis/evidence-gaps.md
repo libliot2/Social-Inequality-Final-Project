@@ -1,6 +1,6 @@
 # Evidence Gaps
 
-[研究状态](../../research-status.md) · [证据库](../evidence-master.md) · [资料审计](repository-audit.md)
+[研究状态](../research-status.md) · [证据库](../evidence/evidence-master.md) · [资料审计](repository-audit.md)
 
 ## 优先排查
 
@@ -18,12 +18,12 @@
 
 | 线索 | 归属与出处 | 状态与用途 |
 | --- | --- | --- |
-| 中国 2024 海外高教存量约 112.6 万、2015 约 80.4 万 | R10；[S060](../source-registry.md#s060) Table B4.3 | Unverified。与 UIS 国家年份行分别获取 |
-| 北京单校意向及城乡 BCSPS 差异 | R10；[闵等 E60](../evidence-master.md#e60)、[李忠路 E61](../evidence-master.md#e61)、[李丁 S059](../source-registry.md#s059) | 单校意向构成和李忠路毕业去向已定位。李丁 34.7 倍、13.3%/2.0% 仍需核具体原图与分母；留意多个 BCSPS 样本是否重叠 |
-| 2015 家庭净财富集中度、2011–2019 财富 Gini 及教育支出 | R11；[财富段](../../research-reports/留学成本、家庭资源与就业回报.md#财富资产和风险承受能力)、[E62/E63](../evidence-master.md#e62) | 财富分布仍未核原表。CIEFR-HS 国内中小学支出已定位，留学家庭的实付和资产另测 |
-| 早期 CHFS 海归工资与爱尔兰家庭资源的 46% | R11/R13，爱尔兰 [S080](../source-registry.md#s080) | Unverified。复核工资共同样本与学历范围；核 46% 是相对概率、优势还是百分点 |
-| Ma、Xu 专著方法与个案 | R10/R11/R13；[Ma 书目](../source-registry.md#s068)、[Xu S053](../source-registry.md#s053) | 专著存在，精确研究样本、田野期和 C019 原始页未核 |
-| E38–E40 的独立人物路径 | R10–R13、R14；[S033–S035](../source-registry.md#s033) | R14 样本与主题已核，本轮付费或访问受限。获取授权全文后补匿名案例 |
+| 中国 2024 海外高教存量约 112.6 万、2015 约 80.4 万 | R10；[S060](../evidence/source-registry.md#s060) Table B4.3 | Unverified。与 UIS 国家年份行分别获取 |
+| 北京单校意向及城乡 BCSPS 差异 | R10；[闵等 E60](../evidence/evidence-master.md#e60)、[李忠路 E61](../evidence/evidence-master.md#e61)、[李丁 S059](../evidence/source-registry.md#s059) | 单校意向构成和李忠路毕业去向已定位。李丁 34.7 倍、13.3%/2.0% 仍需核具体原图与分母；留意多个 BCSPS 样本是否重叠 |
+| 2015 家庭净财富集中度、2011–2019 财富 Gini 及教育支出 | R11；[财富段](../evidence/contributions/留学成本、家庭资源与就业回报.md#财富资产和风险承受能力)、[E62/E63](../evidence/evidence-master.md#e62) | 财富分布仍未核原表。CIEFR-HS 国内中小学支出已定位，留学家庭的实付和资产另测 |
+| 早期 CHFS 海归工资与爱尔兰家庭资源的 46% | R11/R13，爱尔兰 [S080](../evidence/source-registry.md#s080) | Unverified。复核工资共同样本与学历范围；核 46% 是相对概率、优势还是百分点 |
+| Ma、Xu 专著方法与个案 | R10/R11/R13；[Ma 书目](../evidence/source-registry.md#s068)、[Xu S053](../evidence/source-registry.md#s053) | 专著存在，精确研究样本、田野期和 C019 原始页未核 |
+| E38–E40 的独立人物路径 | R10–R13、R14；[S033–S035](../evidence/source-registry.md#s033) | R14 样本与主题已核，本轮付费或访问受限。获取授权全文后补匿名案例 |
 | 家庭出身与回国/留外选择 | E26/E28/E55 | 目前缺中国合适对照。记录海外工作机会、签证、专业、家庭照护和发展阶段 |
 
-本轮已把 R14 附录的德国 Erasmus 约 15 个百分点线索定位到原论文 Table 4，登记为 [E55](../evidence-master.md#e55)。继续追踪的条目应更新证据状态和具体定位，而非只添加第二个同源链接。
+本轮已把 R14 附录的德国 Erasmus 约 15 个百分点线索定位到原论文 Table 4，登记为 [E55](../evidence/evidence-master.md#e55)。继续追踪的条目应更新证据状态和具体定位，而非只添加第二个同源链接。

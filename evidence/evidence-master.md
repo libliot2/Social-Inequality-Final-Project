@@ -1100,3 +1100,33 @@ Liu 的已参与留学者中，具有 985/211 本科经历的受访者报告不�
 - **局限**　父母、亲属、朋友合并编码；信息使用不等于付费，不观察未出国者、家庭净支出或由经济资源产生的渠道差异。与 [E19](#e19)、[E67](#e67) 共用 S020。
 - **相关理论**　经济资本与信息渠道、资本转换。
 - **贡献与核查**　[Member 2 原报告](contributions/member-2-economic-capital-original.md)；核对原文 Table 2 后分别保留资金与渠道口径。
+
+## E74
+
+**Investment · Verified · Qualitative**
+
+华中科技大学本科生 S 自述，顾及家庭的费用负担是放弃海外深造路线的重要原因。他同时考虑研究经历、获带奖博士录取的预期和国内外硕士项目的性价比。手册记载他已获本校光学工程硕士推免。
+
+- **数值与单位**　1 个讨论升学路径的学生自述；家庭收支、学费实付 unknown。
+- **总体、样本与时间**　华中科技大学光电本科生 S；路径选择回顾，手册 2020 版。
+- **研究设计**　学生合写的访谈体经验纪实。
+- **来源与定位**　[S093](source-registry.md#s093) · [2020 版 PDF](https://hust-feiyue.github.io/2020_feiyue.pdf#page=23)，§1.4「选择出国还是保研」，印刷页 pp.20–21，PDF 第 23–24 页。本地 —。
+- **支持的推断**　已有考试与交流准备的学生会在评估预期费用和资助时重新选择教育路径。费用是本人陈述的多项理由之一。 [C028](case-bank.md#c028)
+- **局限**　正式递交申请、海外 offer、奖学金结果、家庭财务和实际国内入学均 unknown。学生的费用估算及择校判断属于自述，不作市场价格或客观资格标准。
+- **相关理论**　地位获得、预期负担、教育路径分化。
+- **贡献与核查**　[Member 2 补充材料](contributions/member-2-abandoned-study-abroad-source-note.md)提供线索；对照手册原文核本人理由与推免结果。
+
+## E75
+
+**Investment · Verified · Qualitative**
+
+Thomas 的访谈中，Yuan 自述获得一所海外院校录取后，父母得知高额学费而改变支持态度，他当时搁置了留学计划。
+
+- **数值与单位**　1 个录取后自述；费用、收入与财富数据 unknown。论文主田野样本为 61 名跨代受访者。
+- **总体、样本与时间**　福建福清、福州和长乐等地，2016–2017 年，样本含成年子女、父母与祖父母。2025 在线首发，2026 卷期。
+- **研究设计**　目的性等非概率招募、访谈及观察，研究家庭如何阻碍国际流动。
+- **来源与定位**　[S094](source-registry.md#s094) · [期刊卷期 PDF](https://journals.sagepub.com/doi/pdf/10.1177/01979183251329050)，Data and Methods pp.1929–1931；Yuan 段 p.1938，Socioeconomic Constraints and Resource Dependency of Children upon Parents；本地 [2025 在线先行版](original-materials/papers/thomas-2025-online-first.pdf#page=17) p.17。
+- **支持的推断**　当留学资金依赖父母时，家庭在了解学费后的出资决定可能改变录取后的去向。 [C029](case-bank.md#c029)
+- **局限**　录取及搁置为访谈自述。院校、申请层次、原就读高校、家庭支付能力、出资意愿与实际财务约束的区分、是否后来重启均 unknown。样本不提供留学申请者或获录取者的分母，不能估计发生率。
+- **相关理论**　家庭资源依赖、融资可得性、录取后的入学转化。
+- **贡献与核查**　[Member 2 补充材料](contributions/member-2-abandoned-study-abroad-source-note.md)提供线索；核对大学存档在线版与期刊卷期正文。

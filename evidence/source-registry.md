@@ -750,6 +750,22 @@
 - **本地与可得性**　课程授课文件 `UCUG3801_lect 5_2026Fall.pdf`，仓库外课程资料处查阅。p.5 为财富存量／收入流量的直接定位。
 - **证据与报告**　理论与讲义定位 · [Member 2 专项综合](contributions/member-2-economic-capital.md#理论分析)。
 
+### S093
+
+**华中科技大学 OEI&SES 飞跃手册（2020 版）** · 华中科技大学 OEI&SES 飞跃手册编委会 · 2020 · 学生经验手册
+
+- **出版标识与原址**　DOI — · [编委会发行页](https://hust-feiyue.github.io/) · [2020 版原始 PDF](https://hust-feiyue.github.io/2020_feiyue.pdf#page=23)。
+- **本地与可得性**　— · 核对 §1.4 印刷页 pp.20–21（PDF 第 23–24 页）。按[手册传播协议](https://hust-feiyue.github.io/warning.html)登记出处与定位。
+- **证据与报告**　[E74](evidence-master.md#e74) · [C028](case-bank.md#c028) · [Member 2 补充材料](contributions/member-2-abandoned-study-abroad-source-note.md)。
+
+### S094
+
+**The Gendered Ways Families Reduce International Migration and Mobility** · Jacob Richard Thomas · 2026（2025-04-15 在线首发） · 原始论文
+
+- **出版标识与原址**　DOI 10.1177/01979183251329050 · [期刊卷期](https://journals.sagepub.com/doi/abs/10.1177/01979183251329050) · International Migration Review 60(3), 1922–1950。
+- **本地与可得性**　[在线先行版 PDF](original-materials/papers/thomas-2025-online-first.pdf) · [Corvinus 存档](https://unipub.lib.uni-corvinus.hu/11111/)，线上 p.17 与卷期 p.1938 均核。出版商列 CC BY-NC 4.0。
+- **证据与报告**　[E75](evidence-master.md#e75) · [C029](case-bank.md#c029) · [Member 2 补充材料](contributions/member-2-abandoned-study-abroad-source-note.md)。
+
 ## 仓库内二次材料与贡献记录
 
 | Source ID | 材料 | 作者或贡献 | 归属与用途 |
@@ -764,3 +780,4 @@
 | SR08 | [原归档索引](<original-materials/README.md>) | 提交作者记录为 mio，a6de8aa | 二次归档说明；本地全文；无 DOI/原始外部 URL |
 | SR09 | [Member 2 原报告](contributions/member-2-economic-capital-original.md) | Member 2；个人姓名 unknown | 第一轮 Targeted Research 原件，按提供版本完整归档；内部引文为原稿记录。 |
 | SR10 | [Member 2 专项综合](contributions/member-2-economic-capital.md) | Member 2 研究；仓库核查与综合 | 二次综合，逐项回链 E/S/C；见 [方法核查](../analysis/methodological-review.md#member-2-专项核查)。 |
+| SR11 | [Member 2 补充材料](contributions/member-2-abandoned-study-abroad-source-note.md) | 用户提供，归入 Member 2 专项 | 保留收到的 16 号交接说明。说明所指向的会话附件在当前环境不可访问。E74/E75 和 C028/C029 依据两份原始来源整合。 |

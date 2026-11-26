@@ -20,7 +20,7 @@
 
 CIEFR-HS 展示如何测量国内基础教育的家庭实支。2020 年论文的中小学生均支出与 2024 年论文按小学、初中及城乡比较的结果使用不同分层和样本，均不能估计海外高等教育成本。[E62](../evidence/evidence-master.md#e62) · [E63](../evidence/evidence-master.md#e63)
 
-赴英研究生的成功参与案例记录父母积蓄、债务及个人储蓄等融资来源；江苏海外读研者调查还记录按届加权的家庭／亲友资金和多种信息渠道。对接受 offer 和入学的约束，仍缺获 offer 未入学样本、原因及净支出。 [E69](../evidence/evidence-master.md#e69) · [E73](../evidence/evidence-master.md#e73) · [当前缺口](../analysis/evidence-gaps.md#member-2-复核后的优先缺口)
+赴英研究生的成功参与案例记录父母积蓄、债务及个人储蓄等融资来源。江苏海外读研者调查还记录按届加权的家庭／亲友资金和多种信息渠道。补充案例记录有准备后改走国内推免与获录取后搁置计划。估计接受 offer 和入学的费用流失仍需有明确分母的样本及净支出。 [E69](../evidence/evidence-master.md#e69) · [E73](../evidence/evidence-master.md#e73) · [E74](../evidence/evidence-master.md#e74) · [E75](../evidence/evidence-master.md#e75)
 
 ## 案例与跨研究比较
 

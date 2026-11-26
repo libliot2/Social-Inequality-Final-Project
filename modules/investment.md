@@ -2,6 +2,8 @@
 
 [模块导航](../README.md#研究模块) · [证据库](../evidence/evidence-master.md) · [来源](../evidence/source-registry.md)
 
+当前海外深造专项沿准备、申请、资金落实和入学整理经济约束。既有长期投资回报资料可用作背景。 [Member 2 专项综合](../evidence/contributions/member-2-economic-capital.md)
+
 ## 核心问题与定义
 
 谁可以支付费用、承担成本波动并等待收益？区分**标价**、**资金证明**、**实付总成本**、**扣除资助后的净成本**和**含机会成本的投资成本**。家庭收入是流量，流动资产是缓冲，住房财富的即时可变现性不同，产品上限也不同于实际贷款本金。
@@ -14,8 +16,11 @@
 | 全国年人均可支配收入 43,377 元，收入五等份差距大 | E07 是三人家庭假设下的算术值，无留学家庭支出或财富观测。[E06](../evidence/evidence-master.md#e06)、[E07](../evidence/evidence-master.md#e07) |
 | 美英加澳日德的年度预算、学费与资金证明各有来源 | 横比应保留原币、学历层次、地区和生效日期。签证资金门槛不能作为实支数。[E08–E13](../evidence/evidence-master.md#e08) |
 | 两家银行提供不同地区或产品的贷款，CHFS 有家庭财务抽样 | 产品上限揭示可用工具，使用率和留学变量样本另查。汇率与商业调查未核。[E14–E16](../evidence/evidence-master.md#e14)、[E45](../evidence/evidence-master.md#e45)、[E46](../evidence/evidence-master.md#e46) |
+| 英国、加拿大资金证明与历史学费 | 适用版本按签证或许可申请日期，核费用和地区。英国按排名的授课硕士学费来自 2021/22 国际学生总体；中国 8,000 元为 2013 年文件对当时学术型硕士的原则上限。 [E10](../evidence/evidence-master.md#e10) · [E70–E72](../evidence/evidence-master.md#e70) |
 
 CIEFR-HS 展示如何测量国内基础教育的家庭实支。2020 年论文的中小学生均支出与 2024 年论文按小学、初中及城乡比较的结果使用不同分层和样本，均不能估计海外高等教育成本。[E62](../evidence/evidence-master.md#e62) · [E63](../evidence/evidence-master.md#e63)
+
+赴英研究生的成功参与案例记录父母积蓄、债务及个人储蓄等融资来源。江苏海外读研者调查还记录按届加权的家庭／亲友资金和多种信息渠道。补充案例记录有准备后改走国内推免与获录取后搁置计划。估计接受 offer 和入学的费用流失仍需有明确分母的样本及净支出。 [E69](../evidence/evidence-master.md#e69) · [E73](../evidence/evidence-master.md#e73) · [E74](../evidence/evidence-master.md#e74) · [E75](../evidence/evidence-master.md#e75)
 
 ## 案例与跨研究比较
 

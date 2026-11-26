@@ -2,7 +2,7 @@
 
 [首页](README.md) · [研究计划与分工](research-plan.md) · [维护规则](AGENTS.md) · [原核查](evidence/contributions/四份留学研究报告的证据审计.md#verification-table)
 
-**当前阶段为 Focused Research & Targeted Research。** 五项专项研究以最终选题为共同起点。本页更新项目整体阶段，个人专项研究的范围和交接记录见各自 PR。
+**当前阶段为 Focused Research & Targeted Research。** 五项专项研究以最终选题为共同起点。已整合的专项成果从本页进入，详细核查和交接见各专项文档及 PR。
 
 ## 已完成阶段
 
@@ -19,7 +19,14 @@
 | Research Question Definition | 已完成 |
 | Division of Labor | 已完成 |
 
-Fact Verification 指前期核查阶段已完成。证据库维护 E01–E63，E01–E48 继承 R14 状态，E49–E63 包含 12 Verified、1 Partially Verified、2 Unverified。各条目保留核查状态与原件定位。 [证据库](evidence/evidence-master.md) · [来源登记](evidence/source-registry.md) · [案例库](evidence/case-bank.md)
+Fact Verification 指前期核查阶段已完成。证据库现维护 E01–E75。E01–E48 继承 R14 状态，E49–E63 包含 12 Verified、1 Partially Verified、2 Unverified；Member 2 新增 E64–E75 中有 9 Verified、3 Partially Verified。各条目保留核查状态与原件定位。 [证据库](evidence/evidence-master.md) · [来源登记](evidence/source-registry.md) · [案例库](evidence/case-bank.md)
+
+## Member 2 专项进度
+
+- 第一轮 Targeted Research 已完成。原报告 SR09 已归档，专项综合 SR10 已按既有研究、定向核查和案例范围整合。更新 E10、E18–E20、E40、E51、E58、E61；新增 E64–E73、S084–S092、C021–C027。E64/E65 目前为摘要级，E66 已核全文成本机制，参与人数口径待厘清。 [专项综合](evidence/contributions/member-2-economic-capital.md) · [原报告](evidence/contributions/member-2-economic-capital-original.md) · [核查记录](analysis/methodological-review.md#member-2-专项核查)
+- 补充材料 SR11 已接入。E74/E75、S093/S094、C028/C029 记录两种不同阶段的计划改变。已核准备后获得国内推免，以及当事人所述的获海外录取后搁置。缺少两类情形的队列分母。 [案例对照](evidence/contributions/member-2-economic-capital.md#真实案例)
+- 当前可支持北大该届内部家庭经济资源与海外 offer 的条件关联，以及北京多校的国内与海外读研路径差异。准备投入、融资与目的地差异有模型、案例和制度资料支持，适用边界见[专项结论](evidence/contributions/member-2-economic-capital.md#专项结论与证据支持程度)。
+- 下一步优先查精英高校同队列的阶段分母、家庭流动资金与净支出，以及获 offer 后的放弃原因。同期围绕成绩、既往海外经历和资助时点与其他专项对齐样本与结局。 [待查事项](analysis/evidence-gaps.md#member-2-复核后的优先缺口) · [跨成员衔接](evidence/contributions/member-2-economic-capital.md#与小组其他专项衔接)
 
 ## 已确定的研究决策
 

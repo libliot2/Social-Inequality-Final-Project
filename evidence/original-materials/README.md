@@ -1,6 +1,6 @@
 # 海外留学研究资料归档
 
-归档日期为 2026 年 11 月 25 日。与 [证据与案例汇编](../contributions/study-abroad-evidence.md) 配套。PDF 是下载的原文件。HTML 是公开网页的本地副本，图片、样式和外部链接可能仍需联网。
+首次归档日期为 2026 年 11 月 25 日。与 [证据与案例汇编](../contributions/study-abroad-evidence.md) 配套。PDF 是下载的原文件。HTML 是公开网页的本地副本，图片、样式和外部链接可能仍需联网。
 
 ## 论文
 
@@ -12,6 +12,7 @@
 | 阶层优势 · 证据 3、4 | [Netz 与 Grüttner（2021）全文 PDF](papers/netz-gruettner-2021.pdf) | SSOAR 收录的出版版本，24 页含存档封面。参与率见描述性分析，匹配估计和增长曲线估计分别见图 2 和图 4。[论文 DOI](https://doi.org/10.1007/s10734-020-00579-2) · [SSOAR 下载](https://www.ssoar.info/ssoar/bitstream/handle/document/87902/ssoar-heedur-2021-6-netz_et_al-Does_the_effect_of_studying.pdf?sequence=1) |
 | 阶层优势 · 证据 5 | [Peng（2025）摘要](web/peng-2025-abstract.html) | 香港浸会大学研究门户摘要。出版商 PDF 下载返回 HTTP 403，16 人及其中 9 人的数据见线上正文。[论文 DOI](https://doi.org/10.1080/01425692.2025.2519491) · [出版商正文](https://www.tandfonline.com/doi/full/10.1080/01425692.2025.2519491) |
 | 阶层优势 · 案例 2、3 | [Lan（2019）全文 PDF](papers/lan-2019.pdf) | 阿姆斯特丹大学 UvA-DARE 收录的出版版本，15 页含存档封面。可在 PDF 内搜索 Maggie 和 Robin。[论文 DOI](https://doi.org/10.1111/imig.12515) · [UvA-DARE 下载](https://pure.uva.nl/ws/files/29032284/Lan_2018_International_Migration.pdf) |
+| 经济资本 · C029 | [Thomas 在线先行版 PDF](papers/thomas-2025-online-first.pdf) | 2026-11-26 自 Corvinus 研究存档下载，2025 在线版。© Jacob Richard Thomas 2025，出版商标为 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)。[大学存档](https://unipub.lib.uni-corvinus.hu/11111/) · [期刊卷期及许可](https://journals.sagepub.com/doi/abs/10.1177/01979183251329050) |
 
 ## 报告
 

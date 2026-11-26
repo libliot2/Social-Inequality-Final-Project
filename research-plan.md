@@ -19,6 +19,8 @@
 | Member 4 | Academic Merit vs. Family Advantage | 学业能力与努力能在什么条件下帮助学生克服家庭劣势？考察成绩、能动性与家庭资源的关系，以及如何区分入学筛选、前置投入与校内发展。 |
 | Member 5 | Equalizing Opportunities | 奖学金、大学国际交流、申请指导及其他制度支持能否缓解机会差距？考察资格、接触、申请和领取是否也存在分层，并参与最终综合讨论。 |
 
+已整合专项可从 [Member 2｜Economic Capital](evidence/contributions/member-2-economic-capital.md) 进入。其他成员复用的证据和共同检查见该章[衔接表](evidence/contributions/member-2-economic-capital.md#与小组其他专项衔接)。
+
 ## 统一研究框架
 
 **Phenomenon → Economic Capital → Social & Cultural Capital → Academic Merit & Agency → Institutional Support & Reflection**

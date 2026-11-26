@@ -174,7 +174,7 @@
 
 - **出版标识与原址**　DOI 10.1080/03075079.2021.1946030 · <https://www.tandfonline.com/doi/full/10.1080/03075079.2021.1946030>
 - **本地与可得性**　[论文摘要快照](original-materials/web/shen-et-al-2022-abstract.html) · [出版商 PDF](https://www.tandfonline.com/doi/pdf/10.1080/03075079.2021.1946030)；本轮核 Tables 1–3，全文 HTML 访问受限。
-- **证据与报告**　[E20](evidence-master.md#e20)、[E51](evidence-master.md#e51) · [R10](<contributions/留学机会、资本转换与社会流动.md>)、[R12](<contributions/留学参与、海归就业与展示证据.md>)、[成员汇编](<contributions/study-abroad-evidence.md>)、[Member 2 原报告](contributions/member-2-economic-capital-original.md)
+- **证据与报告**　[E20](evidence-master.md#e20)、[E51](evidence-master.md#e51) · [R10](<contributions/留学机会、资本转换与社会流动.md>)、[R12](<contributions/留学参与、海归就业与展示证据.md>)、[成员汇编](<contributions/study-abroad-evidence.md>)、[Member 2 原报告](contributions/member-2-economic-capital-original.md)、[SR12](#sr12)
 
 ### S022
 
@@ -414,7 +414,7 @@
 
 - **出版标识与原址**　DOI — · <https://caser.shanghai.nyu.edu/caser-projects/bcsps/>
 - **本地与可得性**　[bcsps-project.html](<original-materials/web/bcsps-project.html>) · 公开项目页；仓库无微观数据
-- **证据与报告**　[E18](evidence-master.md#e18)、[E61](evidence-master.md#e61)、[E68](evidence-master.md#e68) · —、[Member 2 原报告](contributions/member-2-economic-capital-original.md)
+- **证据与报告**　[E18](evidence-master.md#e18)、[E61](evidence-master.md#e61)、[E68](evidence-master.md#e68)、[E76](evidence-master.md#e76)、[E77](evidence-master.md#e77)、[E78](evidence-master.md#e78)、[E79](evidence-master.md#e79) · [Member 2 原报告](contributions/member-2-economic-capital-original.md)
 
 ### S052
 
@@ -466,7 +466,7 @@
 
 ### S058
 
-**大学生毕业意向的影响机制及变迁趋势：基于十年历时调查数据的实证考察** · 闵遵涛；陈云松；王秀晓 · 2018 · 原始论文
+**大学生毕业意向的影响机制及变迁趋势：基于十年历时调查数据的实证考察** · 闵尊涛；陈云松；王修晓 · 2018 · 原始论文
 
 - **出版标识与原址**　DOI unknown · <https://html.rhhz.net/society/html/20180507.htm>
 - **本地与可得性**　— · 本轮已核在线全文 Table 1
@@ -658,7 +658,7 @@
 
 - **出版标识与原址**　DOI 10.15992/j.cnki.31-1123/c.2016.03.004 · [《社会》原文](https://html.rhhz.net/society/html/20160304.htm)
 - **本地与可得性**　— · 期刊在线全文，本轮核 Tables 2、5、6、7，Tables 6–7 为原网页表图。
-- **证据与报告**　[E61](evidence-master.md#e61)、[E68](evidence-master.md#e68) · [R10](contributions/留学机会、资本转换与社会流动.md)、[Member 2 原报告](contributions/member-2-economic-capital-original.md)
+- **证据与报告**　[E61](evidence-master.md#e61)、[E68](evidence-master.md#e68) · [R10](contributions/留学机会、资本转换与社会流动.md)、[Member 2 原报告](contributions/member-2-economic-capital-original.md)、[SR12](#sr12)
 
 ### S082
 
@@ -766,6 +766,46 @@
 - **本地与可得性**　[在线先行版 PDF](original-materials/papers/thomas-2025-online-first.pdf) · [Corvinus 存档](https://unipub.lib.uni-corvinus.hu/11111/)，线上 p.17 与卷期 p.1938 均核。出版商列 CC BY-NC 4.0。
 - **证据与报告**　[E75](evidence-master.md#e75) · [C029](case-bank.md#c029) · [Member 2 补充材料](contributions/member-2-abandoned-study-abroad-source-note.md)。
 
+### S095
+
+**Can greater reliance on test scores ameliorate the association between family background and access to post-collegiate education? Survey evidence from the Beijing College Students Panel Survey** · Anning Hu；Grace Kao；Xiaogang Wu · 2020 · 原始论文
+
+- **出版标识与原址**　DOI 10.1016/j.ssresearch.2020.102425 · [作者公开的期刊版](https://bpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/f/2344/files/2021/12/Hu.Kao_.Wu_.SSR_.2020.pdf)
+- **本地与可得性**　— · 在线原文，核 §3.1、§4.1、§4.3。
+- **证据与报告**　[E76](evidence-master.md#e76)、[E77](evidence-master.md#e77)、[E78](evidence-master.md#e78)、[E79](evidence-master.md#e79) · [SR12](#sr12)
+
+### S096
+
+**就业数据新鲜出炉，看看清华毕业生都在哪儿？** · 清华大学 · 2025 · 校方统计发布
+
+- **出版标识与原址**　DOI — · [校方网页](https://www.tsinghua.edu.cn/info/1177/116404.htm)
+- **本地与可得性**　— · 核 2024 届本科毕业去向。
+- **证据与报告**　[E80](evidence-master.md#e80) · [SR12](#sr12)
+
+### S097
+
+**上海交通大学 2023–2024 学年本科教学质量报告** · 上海交通大学 · 2024 · 校方报告
+
+- **出版标识与原址**　DOI — · [校方报告](https://gk.sjtu.edu.cn/Assets/userfiles/sys_eb538c1c-65ff-4e82-8e6a-a1ef01127fed/files/20241217/20241217100740133.pdf)
+- **本地与可得性**　— · 校方 PDF 可读，比例确切分母待核。
+- **证据与报告**　[E81](evidence-master.md#e81) · [SR12](#sr12)
+
+### S098
+
+**北京交通大学 2024 届毕业生就业质量年度报告** · 北京交通大学 · 2025 · 校方报告
+
+- **出版标识与原址**　DOI — · [校方报告](https://job.bjtu.edu.cn/userfiles/881f81a909d0450cbd1bb74a667be8b9/files/cms/article/2025/03/%E5%8C%97%E4%BA%AC%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A62024%E5%B1%8A%E5%B0%B1%E4%B8%9A%E8%B4%A8%E9%87%8F%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A.pdf)
+- **本地与可得性**　— · 校方 PDF 可读；另据[本科教学质量报告](https://www.bjtu.edu.cn/docs/2024-12/89565391005f434c98ccf577d877ac9f.pdf)核对两份报告的统计口径。
+- **证据与报告**　[E82](evidence-master.md#e82) · [SR12](#sr12)
+
+### S099
+
+**北京大学本科教学质量报告（2023–2024 学年）** · 北京大学 · 2024 · 校方报告线索
+
+- **出版标识与原址**　DOI — · [教务部信息公开](https://dean.pku.edu.cn/web/openinfo.php)
+- **本地与可得性**　— · 校方列有报告，下载入口未能取回原件。
+- **证据与报告**　— · [SR12](#sr12)
+
 ## 仓库内二次材料与贡献记录
 
 | Source ID | 材料 | 作者或贡献 | 归属与用途 |
@@ -781,3 +821,4 @@
 | SR09 | [Member 2 原报告](contributions/member-2-economic-capital-original.md) | Member 2；个人姓名 unknown | 第一轮 Targeted Research 原件，按提供版本完整归档；内部引文为原稿记录。 |
 | SR10 | [Member 2 专项综合](contributions/member-2-economic-capital.md) | Member 2 研究；仓库核查与综合 | 二次综合，逐项回链 E/S/C；见 [方法核查](../analysis/methodological-review.md#member-2-专项核查)。 |
 | SR11 | [Member 2 补充材料](contributions/member-2-abandoned-study-abroad-source-note.md) | 用户提供，归入 Member 2 专项 | 保留收到的 16 号交接说明。说明所指向的会话附件在当前环境不可访问。E74/E75 和 C028/C029 依据两份原始来源整合。 |
+| <a name="sr12"></a>SR12 | [背景与现象调研原稿](contributions/精英大学海外深造机会-背景与现象原稿.md) | 用户提供，原稿署名 unknown | 本地原文；[核查与展示稿](../modules/elite-university-overseas-access.md)列出核查范围与待办；外部原址 unknown |

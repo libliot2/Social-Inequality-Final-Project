@@ -27,7 +27,7 @@ HKUST(GZ) UCUG3801 Social Inequality and Social Mobility 的 Final Project 研�
 
 | 成员 | 专项 | 研究重点 |
 | --- | --- | --- |
-| Member 1 | Phenomenon & Context | 北大及其他高校的阶层差异与研究背景 |
+| Member 1 | [Phenomenon & Context](modules/elite-university-overseas-access.md) | 北大及其他高校的阶层差异与研究背景 |
 | Member 2 | Economic Capital | 申请与就读成本、家庭支付能力和路径选择 |
 | Member 3 | Social & Cultural Capital | 家庭网络、父母教育、申请知识和国际经历 |
 | Member 4 | Academic Merit vs. Family Advantage | 学业、努力与家庭优势如何共同影响机会 |

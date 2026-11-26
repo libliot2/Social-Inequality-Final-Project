@@ -4,6 +4,8 @@
 
 Member 2 对照北大和 BCSPS 原表，补了经济资源档位、学业表现和既往国际经历的分阶段解读。比对北大 offer、北京多校毕业去向与其他高校意愿时，按各研究的原始结局与条件样本引用。 [专项综合](../evidence/contributions/member-2-economic-capital.md#核心实证结果)
 
+[Member 1 专题](elite-university-overseas-access.md)汇集北大校内证据、北京多校阶段比较和四页展示稿。
+
 ## 核心问题与定义
 
 家庭背景的梯度主要出现在考虑、准备、申请、获 offer、入学还是毕业？每一步需同时记录上一步分母和实际进入人数。**Offer** 可给同一人多个，**入学** 是最终参与。**Odds ratio** 比较概率与其补数的比，单独不足以换算概率差。SES 应拆为收入、资产、父母教育与职业，而非互换使用。
@@ -15,6 +17,8 @@ Member 2 对照北大和 BCSPS 原表，补了经济资源档位、学业表现�
 - 江苏研究的 2.8%、4.3%、2.2% 属模型情景。德国研究的 42% 与 27% 是按父母学历分组的描述性率。前者便于问支付约束，后者便于展示分母；二者的处理、制度与样本不同。[E19](../evidence/evidence-master.md#e19) · [E52](../evidence/evidence-master.md#e52)
 
 - 闵等单校十年调查补家庭所在地的留学意向构成。李忠路用 BCSPS 比较 2010 和 2012 届的毕业去向，父母教育及收入与海外相对于国内读研的选择关联。合并读研相对于工作的 KHB 分解与收入和成绩的交互另列 E68。比较时区分意向构成、实际去向和相对结局。E61 与 E18 共用 BCSPS 调查体系，样本重叠待核。 [E60](../evidence/evidence-master.md#e60) · [E61](../evidence/evidence-master.md#e61) · [E68](../evidence/evidence-master.md#e68)
+
+- Hu 等用 BCSPS 区分申请、获录取和入学。在其加权模型中，家庭社会经济地位与海外申请及申请后的获录取均呈正相关；获录取者的入学模型中关联未达显著。[E76](../evidence/evidence-master.md#e76) · [E77](../evidence/evidence-master.md#e77) · [E78](../evidence/evidence-master.md#e78) · [E79](../evidence/evidence-master.md#e79)
 
 ## 真实案例与跨研究比较
 

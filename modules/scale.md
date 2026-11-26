@@ -12,6 +12,7 @@
 | --- | --- | --- |
 | 教育部年度流量 | 2019 年出国 70.35 万、回国 58.03 万；2025 年分别为 57.06 万、53.56 万 | [E01](../evidence/evidence-master.md#e01)、[E02](../evidence/evidence-master.md#e02) |
 | 历史规模 | 1978 年 860 人、2000 年 38,989 人、2008 年 179,800 人。时期边界需保留 | [E03](../evidence/evidence-master.md#e03) |
+| 高校毕业去向 | 2024 届清华公布本科出国（境）深造比例 18.4%，北交大就业质量报告为 625 / 3,840。上交报告列 838 人，所列 22.18% 对应分母待核 | [E80](../evidence/evidence-master.md#e80)、[E81](../evidence/evidence-master.md#e81)、[E82](../evidence/evidence-master.md#e82) |
 | 美国、澳大利亚、加拿大、英国 | 美国资料含 OPT；澳洲是开始或继续学习；加拿大是生效或续签的许可；英国 47% 是中国和印度合计 | [E41–E44](../evidence/evidence-master.md#e41) |
 | 国内外口径交叉 | UIS 2023 约 107.6 万人的存量及 1.81% 比例仍有数据版本问题，港澳特殊编码待核 | [E47](../evidence/evidence-master.md#e47)、[E48](../evidence/evidence-master.md#e48) |
 

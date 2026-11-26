@@ -19,7 +19,12 @@
 | Research Question Definition | 已完成 |
 | Division of Labor | 已完成 |
 
-Fact Verification 指前期核查阶段已完成。证据库现维护 E01–E75。E01–E48 继承 R14 状态，E49–E63 包含 12 Verified、1 Partially Verified、2 Unverified；Member 2 新增 E64–E75 中有 9 Verified、3 Partially Verified。各条目保留核查状态与原件定位。 [证据库](evidence/evidence-master.md) · [来源登记](evidence/source-registry.md) · [案例库](evidence/case-bank.md)
+Fact Verification 指前期核查阶段已完成。证据库现维护 E01–E82。E01–E48 继承 R14 状态，E49–E63 包含 12 Verified、1 Partially Verified、2 Unverified；Member 2 新增 E64–E75 中有 9 Verified、3 Partially Verified。Member 1 新增 E76–E82 中有 6 Verified、1 Partially Verified。各条目保留核查状态与原件定位。 [证据库](evidence/evidence-master.md) · [来源登记](evidence/source-registry.md) · [案例库](evidence/case-bank.md)
+
+## Member 1 专项进度
+
+- 背景与现象第一轮已完成。[原稿 SR12](evidence/source-registry.md#sr12)已归档，[专题与四页展示稿](modules/elite-university-overseas-access.md)按北大校内 offer、跨校阶段比较和本科毕业去向整理证据。复核 E20、E51、E61；新增 E76–E82、S095–S099。
+- 下一步比对 BCSPS 的入学队列与追踪波次，再核上交 838 人对应的分母和北大 2024 届校方原件。北大 2017 届单校调查有非应答及申请筛选限制，后续机制判断交小组综合。
 
 ## Member 2 专项进度
 

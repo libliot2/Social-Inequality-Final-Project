@@ -85,8 +85,8 @@
 **Study permit: Proof of financial support** · IRCC · unknown · 政府说明
 
 - **出版标识与原址**　DOI — · <https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/financial-support.html>
-- **本地与可得性**　— · 动态网页，R14，须核生效日
-- **证据与报告**　[E10](evidence-master.md#e10) · [R11](<contributions/留学成本、家庭资源与就业回报.md>)
+- **本地与可得性**　— · 动态网页；2026-11-26 核魁北克以外、2026-09-01 起申请的 1 人行与适用凭证。
+- **证据与报告**　[E10](evidence-master.md#e10) · [R11](<contributions/留学成本、家庭资源与就业回报.md>)、[Member 2 原报告](contributions/member-2-economic-capital-original.md)
 
 ### S011
 
@@ -157,24 +157,24 @@
 **Brighter or the richer? Understanding Chinese college students’ choices to study abroad** · Shuiyun Liu；Wenyan Liang；Ying Zhang · 2023 · 原始论文
 
 - **出版标识与原址**　DOI 10.1016/j.ijedudev.2023.102856 · <https://www.sciencedirect.com/science/article/pii/S0738059323001323>
-- **本地与可得性**　[liu-et-al-2023-abstract.html](<original-materials/web/liu-et-al-2023-abstract.html>) · 本地摘要，全文访问可能受限
-- **证据与报告**　[E18](evidence-master.md#e18) · [R11](<contributions/留学成本、家庭资源与就业回报.md>)、[R12](<contributions/留学参与、海归就业与展示证据.md>)、[成员汇编](<contributions/study-abroad-evidence.md>)
+- **本地与可得性**　[论文摘要快照](original-materials/web/liu-et-al-2023-abstract.html) · [出版商摘要与 Highlights](https://www.sciencedirect.com/science/article/abs/pii/S0738059323001323)；全文原表受限。
+- **证据与报告**　[E18](evidence-master.md#e18) · [R11](<contributions/留学成本、家庭资源与就业回报.md>)、[R12](<contributions/留学参与、海归就业与展示证据.md>)、[成员汇编](<contributions/study-abroad-evidence.md>)、[Member 2 原报告](contributions/member-2-economic-capital-original.md)
 
 ### S020
 
-**Global pathways: new evidence on the international graduate school choice of Chinese outbound students** · Suhong Yang；Xiaoyang Ye；Dean He · 2022 · 原始论文
+**Global pathways: new evidence on the international graduate school choice of Chinese outbound students** · Suhong Yang；Xiaoyang Ye；Dean He · 2023（在线 2022） · 原始论文
 
 - **出版标识与原址**　DOI 10.1007/s10734-022-00979-6 · <https://pmc.ncbi.nlm.nih.gov/articles/PMC9734696/>
-- **本地与可得性**　— · PMC 全文，R14
-- **证据与报告**　[E19](evidence-master.md#e19) · [R12](<contributions/留学参与、海归就业与展示证据.md>)
+- **本地与可得性**　— · Higher Education 86, 1415–1454，PMC 出版全文。本轮核 Tables 2、4–6、Figure 4 及注 8。
+- **证据与报告**　[E19](evidence-master.md#e19)、[E67](evidence-master.md#e67)、[E73](evidence-master.md#e73) · [R12](<contributions/留学参与、海归就业与展示证据.md>)、[Member 2 原报告](contributions/member-2-economic-capital-original.md)
 
 ### S021
 
 **Elite Mobility and Conversions of Different Forms of Capital: An Investigation of Patterns of Study Abroad amongst Elite Graduates from Peking University in China** · Wenqin Shen；Ye Liu；Yunshan Liu；Ying Huang · 2022（在线 2021） · 原始论文
 
 - **出版标识与原址**　DOI 10.1080/03075079.2021.1946030 · <https://www.tandfonline.com/doi/full/10.1080/03075079.2021.1946030>
-- **本地与可得性**　[shen-et-al-2022-abstract.html](<original-materials/web/shen-et-al-2022-abstract.html>) · 本地仅摘要；本轮查阅出版商 PDF https://www.tandfonline.com/doi/pdf/10.1080/03075079.2021.1946030
-- **证据与报告**　[E20](evidence-master.md#e20)、[E51](evidence-master.md#e51) · [R10](<contributions/留学机会、资本转换与社会流动.md>)、[R12](<contributions/留学参与、海归就业与展示证据.md>)、[成员汇编](<contributions/study-abroad-evidence.md>)
+- **本地与可得性**　[论文摘要快照](original-materials/web/shen-et-al-2022-abstract.html) · [出版商 PDF](https://www.tandfonline.com/doi/pdf/10.1080/03075079.2021.1946030)；本轮核 Tables 1–3，全文 HTML 访问受限。
+- **证据与报告**　[E20](evidence-master.md#e20)、[E51](evidence-master.md#e51) · [R10](<contributions/留学机会、资本转换与社会流动.md>)、[R12](<contributions/留学参与、海归就业与展示证据.md>)、[成员汇编](<contributions/study-abroad-evidence.md>)、[Member 2 原报告](contributions/member-2-economic-capital-original.md)
 
 ### S022
 
@@ -285,8 +285,8 @@
 **Navigating structure and agency: disadvantaged Chinese students’ motivations for international education mobility** · Chu Liu · 2026 · 原始论文
 
 - **出版标识与原址**　DOI 10.1080/01425692.2026.2619550 · <https://doi.org/10.1080/01425692.2026.2619550>
-- **本地与可得性**　— · 在线原文，R14
-- **证据与报告**　[E40](evidence-master.md#e40) · [R10](<contributions/留学机会、资本转换与社会流动.md>)、[R11](<contributions/留学成本、家庭资源与就业回报.md>)
+- **本地与可得性**　— · British Journal of Sociology of Education 47(5), 870–891。[UCL Discovery 出版 PDF](https://discovery.ucl.ac.uk/id/eprint/10222251/)；本轮采用 UCL PDF 版内页 pp.6–8、11–12、14、21–22，目视核 Appendix A 并对照出版商 PDF。
+- **证据与报告**　[E40](evidence-master.md#e40)、[E69](evidence-master.md#e69)、[C021–C027](case-bank.md#s035-的研究生融资案例) · [R10](<contributions/留学机会、资本转换与社会流动.md>)、[R11](<contributions/留学成本、家庭资源与就业回报.md>)、[Member 2 原报告](contributions/member-2-economic-capital-original.md)
 
 ### S036
 
@@ -373,8 +373,8 @@
 **State‐mediated Brokerage System in China's Self‐funded Study Abroad Market** · Shanshan Lan · 2019 · 原始论文
 
 - **出版标识与原址**　DOI 10.1111/imig.12515 · <https://doi.org/10.1111/imig.12515>
-- **本地与可得性**　[lan-2019.pdf](<original-materials/papers/lan-2019.pdf>) · 出版全文，CC BY-NC-ND
-- **证据与报告**　[E58](evidence-master.md#e58) · [成员汇编](<contributions/study-abroad-evidence.md>)
+- **本地与可得性**　[本地出版 PDF](original-materials/papers/lan-2019.pdf) · 2019 卷期（在线 2018），International Migration 57(3), 266–279；核本地 PDF 第 2、4、9 页，存档封面另计。
+- **证据与报告**　[E58](evidence-master.md#e58) · [成员汇编](<contributions/study-abroad-evidence.md>)、[Member 2 原报告](contributions/member-2-economic-capital-original.md)
 
 ### S047
 
@@ -414,7 +414,7 @@
 
 - **出版标识与原址**　DOI — · <https://caser.shanghai.nyu.edu/caser-projects/bcsps/>
 - **本地与可得性**　[bcsps-project.html](<original-materials/web/bcsps-project.html>) · 公开项目页；仓库无微观数据
-- **证据与报告**　[E18](evidence-master.md#e18)、[E61](evidence-master.md#e61) · —
+- **证据与报告**　[E18](evidence-master.md#e18)、[E61](evidence-master.md#e61)、[E68](evidence-master.md#e68) · —、[Member 2 原报告](contributions/member-2-economic-capital-original.md)
 
 ### S052
 
@@ -529,8 +529,8 @@
 **Effectively Maintained Inequality: Education Transitions, Track Mobility, and Social Background Effects** · Samuel R. Lucas · 2001 · 期刊论文（用途待核）
 
 - **出版标识与原址**　DOI 10.1086/321300 · <https://doi.org/10.1086/321300>
-- **本地与可得性**　— · 登记 DOI 线索；全文与发现未核
-- **证据与报告**　— · [R10](<contributions/留学机会、资本转换与社会流动.md>)、[R13](<contributions/留学大众化、家庭融资与阶层优势.md>)
+- **本地与可得性**　— · Crossref 书目与期刊原文入口。用于 EMI 概念，经验适用及检验条件见专项综合。
+- **证据与报告**　— · [R10](<contributions/留学机会、资本转换与社会流动.md>)、[R13](<contributions/留学大众化、家庭融资与阶层优势.md>)、[Member 2 原报告](contributions/member-2-economic-capital-original.md)
 
 ### S066
 
@@ -545,8 +545,8 @@
 **Maximally Maintained Inequality: Expansion, Reform, and Opportunity in Irish Education, 1921-75** · Adrian E. Raftery；Michael Hout · 1993 · 期刊论文（用途待核）
 
 - **出版标识与原址**　DOI 10.2307/2112784 · <https://doi.org/10.2307/2112784>
-- **本地与可得性**　— · 登记 DOI 线索；全文与发现未核
-- **证据与报告**　— · [R10](<contributions/留学机会、资本转换与社会流动.md>)、[R13](<contributions/留学大众化、家庭融资与阶层优势.md>)
+- **本地与可得性**　— · Crossref 书目及期刊原文入口。用于 MMI 概念及原爱尔兰研究适用边界。
+- **证据与报告**　— · [R10](<contributions/留学机会、资本转换与社会流动.md>)、[R13](<contributions/留学大众化、家庭融资与阶层优势.md>)、[Member 2 原报告](contributions/member-2-economic-capital-original.md)
 
 ### S068
 
@@ -657,8 +657,8 @@
 **家庭背景、学业表现与研究生教育机会获得** · 李忠路 · 2016 · 原始论文
 
 - **出版标识与原址**　DOI 10.15992/j.cnki.31-1123/c.2016.03.004 · [《社会》原文](https://html.rhhz.net/society/html/20160304.htm)
-- **本地与可得性**　— · 在线全文；本轮核 Tables 2、7 及分析段。
-- **证据与报告**　[E61](evidence-master.md#e61) · [R10](contributions/留学机会、资本转换与社会流动.md)
+- **本地与可得性**　— · 期刊在线全文，本轮核 Tables 2、5、6、7，Tables 6–7 为原网页表图。
+- **证据与报告**　[E61](evidence-master.md#e61)、[E68](evidence-master.md#e68) · [R10](contributions/留学机会、资本转换与社会流动.md)、[Member 2 原报告](contributions/member-2-economic-capital-original.md)
 
 ### S082
 
@@ -676,6 +676,96 @@
 - **本地与可得性**　— · 本轮核在线全文 Tables 7、8。
 - **证据与报告**　[E63](evidence-master.md#e63) · [R11](contributions/留学成本、家庭资源与就业回报.md)
 
+## Member 2 专项新增来源
+
+### S084
+
+**To study abroad or not, and why? Exploring Chinese university students’ postgraduate intentions** · Yixi Lu、Jason Jean、Zheng Lu · 2023 · 原始论文
+
+- **出版标识与原址**　DOI 10.1080/1369183X.2023.2270326 · [出版商摘要](https://www.tandfonline.com/doi/abs/10.1080/1369183X.2023.2270326) · Journal of Ethnic and Migration Studies 49(18), 4598–4620。
+- **本地与可得性**　— · 出版商摘要及书目；正文原表受限。
+- **证据与报告**　[E64](evidence-master.md#e64) · [Member 2 原报告](contributions/member-2-economic-capital-original.md)。
+
+### S085
+
+**Postgraduate study abroad predisposition: A quantitative analysis at an international branch campus in China** · Hongqing Yang · 2025 · 原始论文
+
+- **出版标识与原址**　DOI 10.1177/17454999251343374 · [出版商摘要](https://journals.sagepub.com/doi/10.1177/17454999251343374) · Research in Comparative and International Education 20(3), 339–354。
+- **本地与可得性**　— · 出版商摘要及书目；正文受限。
+- **证据与报告**　[E65](evidence-master.md#e65) · [Member 2 原报告](contributions/member-2-economic-capital-original.md)。
+
+### S086
+
+**Rerouting to Asia: Drivers of Chinese Students’ Shift in International Higher Education Destinations Toward East and Southeast Asia** · Yajing Tan、Jian Li · 2026 · 原始论文
+
+- **出版标识与原址**　DOI 10.1177/2212585X251413785 · [Cambridge 出版版](https://www.repository.cam.ac.uk/handle/1810/395388) · International Journal of Chinese Education 15(1), pp.1–20。
+- **本地与可得性**　— · 可访问出版 PDF，核摘要、方法及成本段；摘要与方法有参与人数差异。
+- **证据与报告**　[E66](evidence-master.md#e66) · [Member 2 原报告](contributions/member-2-economic-capital-original.md)。
+
+### S087
+
+**Immigration Rules: Appendix Student** · UK Home Office · 动态规则 · 政府法规
+
+- **出版标识与原址**　DOI — · [GOV.UK 原件](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student)。
+- **本地与可得性**　— · 2026-11-26 核 ST 12.1–12.6，对照 [Student visa 说明](https://www.gov.uk/student-visa/money) 与 [S088 变更](#s088)。
+- **证据与报告**　[E70](evidence-master.md#e70) · [Member 2 原报告](contributions/member-2-economic-capital-original.md)。
+
+### S088
+
+**Statement of changes to the Immigration Rules: HC 584, 3 September 2026** · UK Home Office · 2026 · 政府法规变更
+
+- **出版标识与原址**　HC 584 · [GOV.UK 原件](https://www.gov.uk/government/publications/statement-of-changes-to-the-immigration-rules-hc-584-3-september-2026/statement-of-changes-to-the-immigration-rules-hc-584-3-september-2026-accessible)。
+- **本地与可得性**　— · Implementation 与 APP ST8–ST10；2026-11-26 核，适用变更 2026-11-30 生效。
+- **证据与报告**　[E70](evidence-master.md#e70) · [Member 2 原报告](contributions/member-2-economic-capital-original.md)。
+
+### S089
+
+**关于完善研究生教育投入机制的意见** · 财政部、国家发展改革委、教育部 · 2013 · 政策文件
+
+- **出版标识与原址**　财教〔2013〕19号 · [教育部原件](https://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1779/201303/t20130302_148129.html)。
+- **本地与可得性**　— · 第四部分，核收费启动时点、学术硕士政策上限和适用例外。
+- **证据与报告**　[E71](evidence-master.md#e71) · [Member 2 原报告](contributions/member-2-economic-capital-original.md)。
+
+### S090
+
+**Graduate route: rapid review** · UK Migration Advisory Committee · 2024 · 政府研究报告
+
+- **出版标识与原址**　DOI — · [GOV.UK 报告](https://www.gov.uk/government/publications/graduate-route-rapid-review/graduate-route-rapid-review-accessible)。
+- **本地与可得性**　— · Chapter 4、Figure 4.12，HESA 2021/22 按全球院校排名组比较。
+- **证据与报告**　[E72](evidence-master.md#e72) · [Member 2 原报告](contributions/member-2-economic-capital-original.md)。
+
+### S091
+
+**UCUG3801 Lecture 3** · HKUST(GZ) UCUG3801 · 2026 Fall · 课程讲义
+
+- **出版标识与原址**　DOI — · 课程平台；公开地址 unknown。
+- **本地与可得性**　课程授课文件 `UCUG3801_lect 3_2026Fall.pdf`，仓库外课程资料处查阅。pp.3–6、8–9、12、33–34。
+- **证据与报告**　理论与讲义定位 · [Member 2 专项综合](contributions/member-2-economic-capital.md#理论分析)。
+
+### S092
+
+**UCUG3801 Lecture 5** · HKUST(GZ) UCUG3801 · 2026 Fall · 课程讲义
+
+- **出版标识与原址**　DOI — · 课程平台；公开地址 unknown。
+- **本地与可得性**　课程授课文件 `UCUG3801_lect 5_2026Fall.pdf`，仓库外课程资料处查阅。p.5 为财富存量／收入流量的直接定位。
+- **证据与报告**　理论与讲义定位 · [Member 2 专项综合](contributions/member-2-economic-capital.md#理论分析)。
+
+### S093
+
+**华中科技大学 OEI&SES 飞跃手册（2020 版）** · 华中科技大学 OEI&SES 飞跃手册编委会 · 2020 · 学生经验手册
+
+- **出版标识与原址**　DOI — · [编委会发行页](https://hust-feiyue.github.io/) · [2020 版原始 PDF](https://hust-feiyue.github.io/2020_feiyue.pdf#page=23)。
+- **本地与可得性**　— · 核对 §1.4 印刷页 pp.20–21（PDF 第 23–24 页）。按[手册传播协议](https://hust-feiyue.github.io/warning.html)登记出处与定位。
+- **证据与报告**　[E74](evidence-master.md#e74) · [C028](case-bank.md#c028) · [Member 2 补充材料](contributions/member-2-abandoned-study-abroad-source-note.md)。
+
+### S094
+
+**The Gendered Ways Families Reduce International Migration and Mobility** · Jacob Richard Thomas · 2026（2025-04-15 在线首发） · 原始论文
+
+- **出版标识与原址**　DOI 10.1177/01979183251329050 · [期刊卷期](https://journals.sagepub.com/doi/abs/10.1177/01979183251329050) · International Migration Review 60(3), 1922–1950。
+- **本地与可得性**　[在线先行版 PDF](original-materials/papers/thomas-2025-online-first.pdf) · [Corvinus 存档](https://unipub.lib.uni-corvinus.hu/11111/)，线上 p.17 与卷期 p.1938 均核。出版商列 CC BY-NC 4.0。
+- **证据与报告**　[E75](evidence-master.md#e75) · [C029](case-bank.md#c029) · [Member 2 补充材料](contributions/member-2-abandoned-study-abroad-source-note.md)。
+
 ## 仓库内二次材料与贡献记录
 
 | Source ID | 材料 | 作者或贡献 | 归属与用途 |
@@ -688,3 +778,6 @@
 | SR06 | [MR](<../analysis/working-notes/海外留学、社会不平等与社会流动的方法论审查与证据综合.md>) | AI 辅助整理，具体成员身份 unknown | 二次研究或审查材料；本地全文；无 DOI/原始外部 URL |
 | SR07 | [成员汇编](<contributions/study-abroad-evidence.md>) | 提交作者记录为 mio，a6de8aa | 成员综合材料；和原件分别引用 |
 | SR08 | [原归档索引](<original-materials/README.md>) | 提交作者记录为 mio，a6de8aa | 二次归档说明；本地全文；无 DOI/原始外部 URL |
+| SR09 | [Member 2 原报告](contributions/member-2-economic-capital-original.md) | Member 2；个人姓名 unknown | 第一轮 Targeted Research 原件，按提供版本完整归档；内部引文为原稿记录。 |
+| SR10 | [Member 2 专项综合](contributions/member-2-economic-capital.md) | Member 2 研究；仓库核查与综合 | 二次综合，逐项回链 E/S/C；见 [方法核查](../analysis/methodological-review.md#member-2-专项核查)。 |
+| SR11 | [Member 2 补充材料](contributions/member-2-abandoned-study-abroad-source-note.md) | 用户提供，归入 Member 2 专项 | 保留收到的 16 号交接说明。说明所指向的会话附件在当前环境不可访问。E74/E75 和 C028/C029 依据两份原始来源整合。 |

@@ -145,16 +145,16 @@
 
 **Investment · Verified · Descriptive**
 
-加拿大2025/26国际本科平均学费C$40,431，研究生C$23,838；2026-09起单人生活资金要求C$23,448。
+加拿大 2025/26 国际本科平均学费 C$40,431、研究生 C$23,838。魁北克以外单人生活资金要求自 2026 年 9 月 1 日为 C$23,448/年。
 
 - **数值与单位**　学费 C$40,431/23,838每学年；生活门槛 C$23,448
-- **总体、样本与时间**　加拿大全日制国际本科、研究生；签证单人申请者。数据 2025/26；2026-09；发表 2025；unknown。
+- **总体、样本与时间**　加拿大全日制国际本科、研究生（2025/26 学费原提取）；魁北克以外仅一人的学习许可申请（2026-09-01 起）。N 不适用。
 - **研究设计**　官方学费表及签证门槛。
-- **来源与定位**　[S009](source-registry.md#s009)、[S010](source-registry.md#s010) · <https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3710004501>；<https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/financial-support.html> · Table 37-10-0045-01；IRCC 单人行。本地 —。
-- **支持的推断**　分别比较学费均值与生活资金证明。
-- **局限**　资金证明排除学费与交通，需核申请生效日。
+- **来源与定位**　[S009](source-registry.md#s009)、[S010](source-registry.md#s010) · [Statistics Canada](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3710004501) Table 37-10-0045-01；[IRCC](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/financial-support.html) Amount of money you need，申请日期表的 1 人行（2026-11-26 核生活资金）。本地 —。
+- **支持的推断**　两种数据分别衡量按层次公布的学费均值及许可所需的生活资金证明。IRCC 列学生贷款、奖学金证明及资助信等凭证示例。
+- **局限**　生活资金门槛排除学费与交通，适用额随申请日、家庭人数和魁北克规则变化。学费保留 R14 的 2025/26 版本，二者属不同统计时期。
 - **相关理论**　经济资本、财富不平等、人力资本投资。
-- **贡献与核查**　[R11](<contributions/留学成本、家庭资源与就业回报.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R11](<contributions/留学成本、家庭资源与就业回报.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。 [Member 2 原报告](contributions/member-2-economic-capital-original.md)。本轮复核 S010，复用 E10。
 
 ## E11
 
@@ -265,46 +265,46 @@ CFPS 2010中23.5%家长考虑过国际教育；最富10%预测概率>0.32；父�
 
 **Access · Verified · Associational**
 
-BCSPS纵向研究N=2,255；家庭背景和学业能力均影响留学意愿和最终参与；形成意愿后学业能力更重要。
+北京高校纵向调查区分留学意愿形成与后来参与。学业能力和家庭背景都有关联。在已表达意愿者中，作者报告学业能力对实现的预测更突出。
 
-- **数值与单位**　2,255人
-- **总体、样本与时间**　北京15校本科生，N=2,255（校数据成员汇编）。数据 unknown；发表 2023。
+- **数值与单位**　总样本 2,255 人；已表达意愿者的模型 N、系数及检验 unknown。
+- **总体、样本与时间**　北京高校本科生（既有汇编记为 15 校）；分析波次、院校范围及是否可拆分研究生项目待对全文。发表 2023。
 - **研究设计**　BCSPS 纵向观察。
-- **来源与定位**　[S019](source-registry.md#s019)、[S051](source-registry.md#s051) · <https://www.sciencedirect.com/science/article/pii/S0738059323001323>；<https://caser.shanghai.nyu.edu/caser-projects/bcsps/> · 论文 Abstract / Highlights；调查项目说明。本地 [liu-et-al-2023-abstract.html](<original-materials/web/liu-et-al-2023-abstract.html>)；[bcsps-project.html](<original-materials/web/bcsps-project.html>)。
-- **支持的推断**　区分意愿形成与已有意愿者的实现，后者学业因素较突出。
-- **局限**　样本已通过高校入学筛选；无法单独识别因果。
+- **来源与定位**　[S019](source-registry.md#s019)、[S051](source-registry.md#s051) · [出版商摘要与 Highlights](https://www.sciencedirect.com/science/article/abs/pii/S0738059323001323)；BCSPS 项目说明。本地 [论文摘要](original-materials/web/liu-et-al-2023-abstract.html)、[项目页](original-materials/web/bcsps-project.html)。
+- **支持的推断**　摘要将较好的学业、较强学习动机与投入及较有利的家庭背景与较高出国意愿联系起来。Highlights 亦报告，学习动机与意愿实现相关。
+- **局限**　Verified 限摘要与 Highlights 足以支持的定性表述。全文模型、分母与测量未复核。已表达意愿者是选择后的子样本；家庭背景包含多种资源，结果无法给出财务约束的因果效应或精英校独有梯度。
 - **相关理论**　地位获得、教育不平等、MMI/EMI。
-- **贡献与核查**　[R11](<contributions/留学成本、家庭资源与就业回报.md>)、[R12](<contributions/留学参与、海归就业与展示证据.md>)、[成员汇编](<contributions/study-abroad-evidence.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)；本轮补查原文或版本，并保留原核查状态。
+- **贡献与核查**　[R11](<contributions/留学成本、家庭资源与就业回报.md>)、[R12](<contributions/留学参与、海归就业与展示证据.md>)、[成员汇编](<contributions/study-abroad-evidence.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)；本轮补查原文或版本，并保留原核查状态。 [Member 2 原报告](contributions/member-2-economic-capital-original.md)。本轮复核摘要及作者机构书目，保留原核查状态和全文访问限制。
 
 ## E19
 
 **Access · Verified · Simulated**
 
-“Global pathways”模拟：平均海外读研概率2.8%；家庭收入升一档4.3%，降一档2.2%。
+Yang、Ye 与 He 从江苏毕业去向模型模拟家庭收入档位变化。整体海外读研预测概率为 2.8%，收入上调一档为 4.3%，下调一档为 2.2%。
 
 - **数值与单位**　2.8%基准，收入升一档4.3%、降一档2.2%
-- **总体、样本与时间**　江苏本科毕业生；完整 N unknown。数据 2015–2018 届；发表 2022。
-- **研究设计**　行政调查数据、nested logit 模拟。
-- **来源与定位**　[S020](source-registry.md#s020) · <https://pmc.ncbi.nlm.nih.gov/articles/PMC9734696/> · Figure 4。本地 —。
-- **支持的推断**　收入情景与模型预测海外读研概率的关系。
-- **局限**　模型设定依赖；不等于收入政策的处理效应。
+- **总体、样本与时间**　江苏本科毕业生 2015–2017 届用于建模，2018 届缺家庭背景，仅作描述（注 8）；Table 4 模型 247,311 个个案、741,933 条选项观测。发表 2023，在线 2022。
+- **研究设计**　行政母体与毕业生调查；毕业去向 nested logit 及反事实情景模拟。
+- **来源与定位**　[S020](source-registry.md#s020) · [PMC 原文](https://pmc.ncbi.nlm.nih.gov/articles/PMC9734696/) · Table 4、Figure 4 与 Counterfactual scenario #2。本地 —。
+- **支持的推断**　模型较基准分别变化 +1.5 和 −0.6 个百分点。样本未限定精英高校。条件于出国者的目的地模型见同源 [E67](#e67)。
+- **局限**　模型假定支付能力情景独立变化；家庭收入档位未测流动财富。比较值为模拟概率，不能识别实际收入冲击、财富变动或政策的处理效应。
 - **相关理论**　地位获得、教育不平等、MMI/EMI。
-- **贡献与核查**　[R12](<contributions/留学参与、海归就业与展示证据.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R12](<contributions/留学参与、海归就业与展示证据.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。 [Member 2 原报告](contributions/member-2-economic-capital-original.md)。复核 PMC 全文 Figure 4；目的地另列 E67，共用 S020。
 
 ## E20
 
 **Access · Partially Verified · Associational**
 
-北大毕业生的家庭经济资本、职业阶层和既往短期海外经历与获得海外 offer 相关。
+北大 2017 届单校调查中，自报家庭经济资源档位与调查时至少获得一个海外院校 offer 的 odds 正相关，依次纳入人口特征、GPA 与既往短期海外经历后仍显著。
 
-- **数值与单位**　OR 1.569 / 1.662 / 2.174
-- **总体、样本与时间**　北大毕业生，调查 N=1,417；Table 3 各规格 N=1,367。数据 2017 届；发表 2022（在线 2021）。
-- **研究设计**　单校横截面 logistic 回归。
-- **来源与定位**　[S021](source-registry.md#s021) · <https://www.tandfonline.com/doi/full/10.1080/03075079.2021.1946030> · Tables 1、3。本地 [shen-et-al-2022-abstract.html](<original-materials/web/shen-et-al-2022-abstract.html>)。
-- **支持的推断**　Model 1 管理阶层以农业家庭为参照且仅在 10% 水平显著；经济资本为五等份编码每一单位；既往经历 OR 来自 Model 5。
-- **局限**　工人阶层另列；概率比、百分点与 odds ratio 分开。
+- **数值与单位**　家庭经济资源以全国收入五等份作为自报参照（1 最低、5 最高）。每升一档，Models 1–5 OR 为 1.662、1.657、1.673、1.719、1.755，均 p<0.01。本科四年 GPA 为连续变量，每增加一点在 Model 4 的 OR 为 5.410、Model 5 为 4.014，有既往短期海外经历在 Model 5 的 OR 为 2.174，均 p<0.01。
+- **总体、样本与时间**　北大 2017 届本科毕业生；有效问卷 1,417/受邀 3,074（46.10%）；Table 3 各规格 N=1,367。刊于 2022，在线 2021。
+- **研究设计**　单校横截面 logistic 回归。Model 1 含家庭经济资源、父母教育及职业阶层；Models 2–3 逐步加入户口和性别；Models 4–5 再加入 GPA、既往短期海外经历。
+- **来源与定位**　[S021](source-registry.md#s021) · [出版商 PDF](https://www.tandfonline.com/doi/pdf/10.1080/03075079.2021.1946030) · Data and methods、Tables 1、3，pp.1605–1607。本地 [摘要](original-materials/web/shen-et-al-2022-abstract.html)。
+- **支持的推断**　Model 1 的 1.662 是一个档位对应的条件 odds 倍数。Model 1 干部管理职业阶层以农业家庭为参照 OR 1.569，p<0.1；Model 4 为 1.587，p<0.1；Model 5 降至 1.450，原表未标显著。专业与工人阶层分别列出。与描述构成 [E51](#e51) 同源。
+- **局限**　选择性入学、未回复与申请进入均可能筛选样本。结局未给申请者录取率、接受或入学率。自报档位不测净财富或流动资产。GPA、短期海外经历可能含前置家庭投入，嵌套 logit 的 OR 变化不能直接识别中介或总因果效应。
 - **相关理论**　地位获得、教育不平等、MMI/EMI。
-- **贡献与核查**　[R12](<contributions/留学参与、海归就业与展示证据.md>)、[R13](<contributions/留学大众化、家庭融资与阶层优势.md>)、[成员汇编](<contributions/study-abroad-evidence.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)；本轮补查原文或版本，并保留原核查状态。
+- **贡献与核查**　[R12](<contributions/留学参与、海归就业与展示证据.md>)、[R13](<contributions/留学大众化、家庭融资与阶层优势.md>)、[成员汇编](<contributions/study-abroad-evidence.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)；本轮补查原文或版本，并保留原核查状态。 [Member 2 原报告](contributions/member-2-economic-capital-original.md)。本轮核对 Tables 1、3，保留整体 Partially Verified。沿用 R14 对 R12/R13 的口径修正。论文正文扩写了 1.569 的职业比较，原表仅为干部管理组相对农业组。
 
 ## E21
 
@@ -598,13 +598,13 @@ Peng 2026中90名/97%依靠父母资助海外教育；71名/76.3%在回国求职
 2026经济弱势中国赴英研究生N=39，并发现农村/县域学生可把留学理解为更可渗透的替代路径。
 
 - **数值与单位**　39人
-- **总体、样本与时间**　39名经济条件不利的中国赴英研究生。数据 unknown；发表 2026。
-- **研究设计**　目的性访谈。
-- **来源与定位**　[S035](source-registry.md#s035) · <https://doi.org/10.1080/01425692.2026.2619550> · Abstract / findings。本地 —。
-- **支持的推断**　已进入者可能把留学用于职业重规划与自主性。
-- **局限**　条件于成功参与；不观察未进入者或长期代际结果。
+- **总体、样本与时间**　作者招募 39 名经济条件不利的已出国中国研究生（28 女、11 男），2024 年 3 月至 2025 年春招募，发表 2026。方法聚焦英国体系，附录另有都柏林院校条目；本轮所提案例均为英国就读记录。
+- **研究设计**　以自报经济压力、约 15 万元家庭年收入等识别资源有限者，并考虑父母职业；该收入线是招募参考。由熟人和公开广告出发滚雪球，每次访谈 1–2 小时，主题分析。
+- **来源与定位**　[S035](source-registry.md#s035) · [UCL 出版 PDF 入口](https://discovery.ucl.ac.uk/id/eprint/10222251/) · 论文 pp.6–7 的方法、发现及 pp.21–22 Appendix A（PDF 第 22–23 页）。本地 —。
+- **支持的推断**　观察到已出国者把留学用于职业重规划、自主性和绕开其认为受限的国内教育路径。附录的不同融资方式是同源的另一结局 [E69](#e69)，个案见 [C021–C027](case-bank.md#s035-的研究生融资案例)。
+- **局限**　条件于已实现国际流动，未观察未申请、失去 offer 或因费用放弃者。访谈机制与样本范围以原文为准，无法推断普遍性或代际结果。
 - **相关理论**　地位获得、教育不平等、MMI/EMI。
-- **贡献与核查**　[R10](<contributions/留学机会、资本转换与社会流动.md>)、[R11](<contributions/留学成本、家庭资源与就业回报.md>)、[R13](<contributions/留学大众化、家庭融资与阶层优势.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。
+- **贡献与核查**　[R10](<contributions/留学机会、资本转换与社会流动.md>)、[R11](<contributions/留学成本、家庭资源与就业回报.md>)、[R13](<contributions/留学大众化、家庭融资与阶层优势.md>)。[继承 R14](contributions/四份留学研究报告的证据审计.md#verification-table)。 [Member 2 原报告](contributions/member-2-economic-capital-original.md)。本轮核对 UCL 出版 PDF 正文和附录。
 
 ## E41
 
@@ -763,13 +763,13 @@ UIS 对中国大陆赴港澳学生的特殊地理编码尚未确认。
 家庭职业阶层构成在北大调查样本与获海外 offer 人群间不同。
 
 - **数值与单位**　工人家庭11.6%→5.9%；农业家庭7.0%→1.4%；干部管理组42.8%→54.1%；专业组26.9%→32.4%
-- **总体、样本与时间**　北大毕业生 N=1,417；比较调查样本与获得海外 offer 子组。数据 2017 届；发表 2022（在线 2021）。
+- **总体、样本与时间**　北大 2017 届本科毕业生调查有效 N=1,417；Table 2 比较受访者与调查时获至少一个海外院校 offer 者（两组为各自分母），论文 2022 年卷期。Table 3 的 1,367 为不同回归分析分母。
 - **研究设计**　北大单校调查组成比较。
-- **来源与定位**　[S021](source-registry.md#s021) · <https://www.tandfonline.com/doi/full/10.1080/03075079.2021.1946030> · p.1606，Table 2。本地 [shen-et-al-2022-abstract.html](<original-materials/web/shen-et-al-2022-abstract.html>)。
+- **来源与定位**　[S021](source-registry.md#s021) · [出版商 PDF](https://www.tandfonline.com/doi/pdf/10.1080/03075079.2021.1946030) · p.1606，Table 2，与 p.1605 的结局定义。本地 [摘要](original-materials/web/shen-et-al-2022-abstract.html)。
 - **支持的推断**　比较两组的家庭出身构成，与 E20 回归互补。
-- **局限**　分母分别为全体受访者和获 offer 者；比例不是分阶层录取率；同一论文。
+- **局限**　阶层构成为分组分母，既不能替代各阶层获 offer 的比例，也不测入学。与回归 [E20](#e20) 为同一调查。
 - **相关理论**　地位获得、教育不平等、MMI/EMI。
-- **贡献与核查**　[R13](<contributions/留学大众化、家庭融资与阶层优势.md>)、[成员汇编](<contributions/study-abroad-evidence.md>)。本轮对照原件或记录可访问限制。 成员汇编；R13 已有部分数字；本轮核对全文。
+- **贡献与核查**　[R13](<contributions/留学大众化、家庭融资与阶层优势.md>)、[成员汇编](<contributions/study-abroad-evidence.md>)。本轮对照原件或记录可访问限制。 成员汇编；R13 已有部分数字；本轮核对全文。 [Member 2 原报告](contributions/member-2-economic-capital-original.md)。复核两列分母及至少一份 offer 的定义，复用原编号。
 
 ## E52
 
@@ -867,14 +867,14 @@ R12 所引两年海归优先职位的招聘月薪数值尚待定位。
 
 民族志观察到家庭购买准备与中介服务，也记录了同伴帮助纠正中介信息的案例。
 
-- **数值与单位**　个案计划约5万元；另一案例向中介实付约68万元（不同项目）
-- **总体、样本与时间**　中国家庭、学生与留学中介；相关中国访谈34；另有意大利田野。数据 论文2015 中国；2017 意大利；发表 2019（在线2018）。
+- **数值与单位**　Maggie 六周语言强化行程的学费、食宿合计预算约人民币 5 万元（2015）；Robin 的不同航空项目中介款实付约人民币 68 万元。
+- **总体、样本与时间**　中国田野 2015 年约两个月，34 次半结构访谈涵盖家长、学生、教育工作者、官员与中介人员；另有 2017 意大利田野。2019 期刊卷期，在线 2018。
 - **研究设计**　多点民族志、访谈和观察。
 - **来源与定位**　[S046](source-registry.md#s046) · <https://doi.org/10.1111/imig.12515> · 开篇；Interactions between parents, students and private agents；注1。本地 [lan-2019.pdf](<original-materials/papers/lan-2019.pdf>)。
-- **支持的推断**　关系与中介是经济资本向教育选择转化的渠道，也带来辨识成本。
-- **局限**　不同个人、时点、费用用途；花费和最后入学、职业结果须分别核查。
+- **支持的推断**　C002 观察到家长动用中介、既往语言考试和拟培训行程，暑校为顾问建议。C003 观察到实际付款以及另找顾问核验项目和执照。S046 也记录同伴纠正中介信息，显示信息渠道可互补。
+- **局限**　C002 是中学阶段准备赴美本科；C003 为航空教育路径。费用用途、时期、结果不同。预算、建议和实际投入分开记录。案例支持资金可购买准备与咨询，未识别对技能、申请数量、录取或中国精英高校学生的效应。
 - **相关理论**　经济资本、财富不平等、人力资本投资。
-- **贡献与核查**　[成员汇编](<contributions/study-abroad-evidence.md>)。本轮对照原件或记录可访问限制。 成员汇编；本轮核对本地全文。
+- **贡献与核查**　[成员汇编](<contributions/study-abroad-evidence.md>)。本轮对照原件或记录可访问限制。 成员汇编；本轮核对本地全文。 [Member 2 原报告](contributions/member-2-economic-capital-original.md)。对照本地出版 PDF 第 2、4、9 页，复用 C002/C003。
 
 ## E59
 
@@ -910,16 +910,16 @@ R12 提出海归在本地知识和国内外网络方面的资源可能不对称�
 
 **Access · Verified · Associational**
 
-李忠路的 BCSPS 研究发现，在校成绩与高校类型纳入模型后，父母教育和家庭收入仍与毕业后出国读研相对于国内读研的选择有关。
+北京高校 BCSPS 2010、2012 届中，家庭收入对数与父母教育在控制本科院校及学业表现后，仍与海外读研相对于国内读研的去向相关。
 
-- **数值与单位**　描述样本 N=4,177，海外读研加权比例 9.6%。回归系数见 Table 7。
+- **数值与单位**　描述与 Table 7 N=4,177，海外读研加权占 9.6%。Table 7 Model 2 海外/国内读研：家庭收入对数 0.498（SE 0.087），父母大专及以上 0.677（0.156），均 p<0.001；211 高校 0.143（0.339）、学业成绩 −0.204（0.644），均未标显著。工作/国内读研列的收入 −0.024（0.055）、父母教育 −0.240（0.123）均未标显著。
 - **总体、样本与时间**　北京高校本科毕业生。数据 2010、2012 届；发表 2016。
-- **研究设计**　毕业去向的多分类 logit，原文另有 KHB 分析。
-- **来源与定位**　[S081](source-registry.md#s081)、[S051](source-registry.md#s051) · [《社会》原文](https://html.rhhz.net/society/html/20160304.htm) · Tables 2、7，结果第三部分。项目介绍本地为 [BCSPS](original-materials/web/bcsps-project.html)，论文无本地副本。
-- **支持的推断**　在该高校样本中，家庭出身与出国/国内读研的条件关联不同于国内读研/工作。
-- **局限**　既有高校筛选与潜在混杂；与 E18 共享调查体系，不能自动视为独立样本。
+- **研究设计**　多分类 logit。收入为 2009 年基线家庭年总收入自然对数，父母教育为至少一方有大专及以上学历，学习成绩为班级排名换算的 0–1 指标。原文另有合并读研的 KHB 分析。
+- **来源与定位**　[S081](source-registry.md#s081)、[S051](source-registry.md#s051) · [《社会》原文](https://html.rhhz.net/society/html/20160304.htm)，Tables 2、7 及结果第（三）节；[Table 7 图](https://html.rhhz.net/society/html/PIC/20160304-T7.jpg)。项目介绍本地见 [BCSPS](original-materials/web/bcsps-project.html)，论文无本地副本。
+- **支持的推断**　国内读研参照类别下，不同去向的条件关联不同。Table 7 为多分类 logit 系数。合并读研相对工作的 KHB 与交互检验另见同源 [E68](#e68)。
+- **局限**　系数非 OR 或百分点；不显著也不等价于生源能力相同。费用机制是作者解释，模型未直接测每条路径净成本。既有高校筛选与潜在混杂；与 E18 共享调查体系，样本重叠待核。
 - **相关理论**　地位获得、多阶段教育选择、经济资本。
-- **贡献与核查**　[R10](contributions/留学机会、资本转换与社会流动.md)；本轮核在线全文。
+- **贡献与核查**　[R10](contributions/留学机会、资本转换与社会流动.md)；本轮核在线全文。 [Member 2 原报告](contributions/member-2-economic-capital-original.md)。逐列核对 Model 2 原图，并区分 Table 5 的合并结局。
 
 ## E62
 
@@ -950,3 +950,153 @@ CIEFR-HS 的另一篇分析列出小学生、初中生家庭的城乡生均支�
 - **局限**　实际留学成本另测。和 E62 共用部分调查，样本及分母不同，无投入变化的因果识别。
 - **相关理论**　经济资本、城乡教育不平等。
 - **贡献与核查**　[R11](contributions/留学成本、家庭资源与就业回报.md)；本轮定位 Table 7。
+
+## E64
+
+**Access · Partially Verified · Associational**
+
+Lu、Jean 与 Lu 的两校调查报告经济资本与海外读研意愿相关。作者报告，家庭及个人的智力资本总体更突出，缺少财务支持是受访者报告的阻碍。
+
+- **数值与单位**　样本 N、各模型系数及原因分母 unknown。
+- **总体、样本与时间**　中国西南某城市两所主要高校，2018 年学生调查。发表 2023。
+- **研究设计**　双变量比较、多分类 logit 与原因的非参数比较。
+- **来源与定位**　[S084](source-registry.md#s084) · [出版商摘要](https://www.tandfonline.com/doi/abs/10.1080/1369183X.2023.2270326)，Abstract、Table 2 线索。本地 —。
+- **支持的推断**　作者在摘要报告了经济资源相关性和资金阻碍，学习获取也是意愿的重要动机。
+- **局限**　核实摘要和书目。未取得完整样本、变量编码、原表、效应大小或不同资本的同标度比较。结局为意愿，未追踪申请、offer 或入学。
+- **相关理论**　地位获得、经济与人力资本。
+- **贡献与核查**　[Member 2 原报告](contributions/member-2-economic-capital-original.md)；Crossref 和出版商摘要核对。
+
+## E65
+
+**Access · Partially Verified · Associational**
+
+中国某国际分校的单校研究报告，中、高收入家庭的学生有较强海外读研倾向，摘要尤其指出中等收入组。
+
+- **数值与单位**　样本 N、收入切点、参照组及系数 unknown。
+- **总体、样本与时间**　中国一所国际分校学生；数据时间 unknown。发表 2025。
+- **研究设计**　单校量化分析；完整抽样与规格待核。
+- **来源与定位**　[S085](source-registry.md#s085) · [出版商摘要](https://journals.sagepub.com/doi/10.1177/17454999251343374)，Abstract。本地 —。
+- **支持的推断**　摘要报告了收入组差异，同时指出同伴、能力以及资源稀释等解释。
+- **局限**　核实摘要和书目。全文受限；无法判断收入梯度是否单调或组间差异显著。国际分校和中国精英高校有不同选择机制，倾向与入学分开。
+- **相关理论**　经济资本、资源稀释、教育分层。
+- **贡献与核查**　[Member 2 原报告](contributions/member-2-economic-capital-original.md)；Crossref 和出版商摘要核对。
+
+## E66
+
+**Access · Partially Verified · Qualitative**
+
+Tan 与 Li 的访谈中，学费和生活成本进入学生对东亚及东南亚目的地的权衡，申请时点、专业、声望、距离、安全和职业考虑也参与其中。
+
+- **数值与单位**　31 份访谈记录。摘要写 30 位参与者，方法写招募 31 人并报告 30 次视频访谈和 1 次文字访谈；可确认人数的差异尚无解释。
+- **总体、样本与时间**　有东亚或东南亚教育经历的中国学生，本科及硕士混合；2025 年 2–3 月访谈；发表 2026。
+- **研究设计**　滚雪球抽样，访谈与补充文本的主题分析。
+- **来源与定位**　[S086](source-registry.md#s086) · [Cambridge 出版版](https://www.repository.cam.ac.uk/handle/1810/395388)，p.1 摘要、pp.3–4 Methodology、pp.11–13 目的地讨论。本地 —。
+- **支持的推断**　受访者直接谈到相对成本；可用作目的地选择机制与反例。
+- **局限**　成本叙述和访谈记录数已核，独立参与人数未定。样本按已有经历选择，且多有公共部门家庭背景，不能估计收入梯度、精英高校比例或总体转向规模。
+- **相关理论**　可负担性、教育路径分化。
+- **贡献与核查**　[Member 2 原报告](contributions/member-2-economic-capital-original.md)；逐节对照 Cambridge 出版 PDF 的摘要与方法。
+
+## E67
+
+**Access · Verified · Simulated**
+
+江苏研究对已经选择海外读研者模拟目的地变化。家庭收入的作用随目的地和情景不同，资助、工作机会和招生也改变模型份额。
+
+- **数值与单位**　Table 6 Panel B，按基准→降一档→升一档（%）列举：美国 17.8→18.0→18.2，英国 25.5→23.0→27.6，韩日新 14.0→13.9→12.0，德法 8.3→8.5→8.1。
+- **总体、样本与时间**　江苏 2015–2017 届海外读研者；Table 5 多分类 logit N=6,983；发表 2023，在线 2022。
+- **研究设计**　条件于选择出国的多分类 logit 与反事实模拟，备选项为六个国家或地区组。
+- **来源与定位**　[S020](source-registry.md#s020) · [PMC 原文](https://pmc.ncbi.nlm.nih.gov/articles/PMC9734696/)，Eq. 1.4、Tables 5–6，尤其 Panel B，及情景 2–5。本地 —。
+- **支持的推断**　同一收入变动下各目的地反应不同，美国在两个方向的收入变动中均略升。与总体出国概率 [E19](#e19) 的分母及结局有别。
+- **局限**　模型重新分配而非实际流向或政策效应。目的地组混合异质项目，不能用于估计院校质量、收入因果效应或精英高校群体的差距。
+- **相关理论**　可负担性、EMI 的路径分化解释。
+- **贡献与核查**　[Member 2 原报告](contributions/member-2-economic-capital-original.md)；原表逐列复核，与 E19、E73 同出 S020。
+
+## E68
+
+**Access · Verified · Associational**
+
+李忠路对继续读研（合并国内及海外）相对工作的模型进行 KHB 分解。家庭收入对数的间接部分未标显著，父母教育的间接部分显著。
+
+- **数值与单位**　Table 5 KHB 共同 logit 尺度，收入总／直接／间接 0.158／0.130／0.028（最后一项 SE 0.039，未显著）；父母教育 0.650／0.463／0.187（间接 p<0.001）。Table 6 Model 4 收入对数×学习成绩 −0.258（SE 0.130，p<0.05）；Model 3 收入×211 院校类型未标显著。
+- **总体、样本与时间**　北京高校 BCSPS 2010、2012 届；Tables 4、6 N=4,175；发表 2016。
+- **研究设计**　二元 logit，以 KHB 对齐嵌套模型尺度后做分解；加入本科院校、成绩、党员与干部等变量；另检验交互。
+- **来源与定位**　[S081](source-registry.md#s081)、[S051](source-registry.md#s051) · [《社会》原文](https://html.rhhz.net/society/html/20160304.htm)，Tables 4–6、Figure 1、分析第（一）–（二）节。本地 —。
+- **支持的推断**　此规格中本科院校和在校表现解释的收入关联有限；成绩较高时模型中的收入梯度较弱。家庭收入与父母教育的分解结果不同。
+- **局限**　同源 [E61](#e61) 的国内／海外是另一结局。分解及交互属于观察性模型，估计不支持因果中介或海外专属的成绩缓冲。
+- **相关理论**　地位获得、相对风险规避、学业表现。
+- **贡献与核查**　[Member 2 原报告](contributions/member-2-economic-capital-original.md)；复核 Table 5 HTML 及 Table 6 图。
+
+## E69
+
+**Investment · Verified · Qualitative**
+
+Liu 的已参与留学者中，具有 985/211 本科经历的受访者报告不同的主要融资来源，包括债务、个人储蓄和父母积蓄。
+
+- **数值与单位**　Appendix A 给出个案主要来源；资金金额、占比和债务条款 unknown。
+- **总体、样本与时间**　S035 的 39 人滚雪球样本中符合前述经历的选录案例；2024 年 3 月至 2025 年春招募；发表 2026。同源样本见 [E40](#e40)。
+- **研究设计**　正文访谈及附录编码。附录说明多个来源并列时首项为最大份额。
+- **来源与定位**　[S035](source-registry.md#s035) · [UCL 出版 PDF 入口](https://discovery.ucl.ac.uk/id/eprint/10222251/)，Appendix A，论文 pp.21–22（PDF 第 22–23 页），受访者 #9、#16、#17、#23、#26、#31；#2 为职业院校背景对照。另见正文论文 pp.8、11–12、14。本地 —。
+- **支持的推断**　部分经济受限的学生完成出国路径，并报告动用不同资源。[C021–C027](case-bank.md#s035-的研究生融资案例) 区分附录主来源与正文描述的补充或未能判定份额的资金来源。
+- **局限**　附录年份是硕士毕业年。正文与附录的来源信息有差别，份额未测。个案可说明不同融资做法，不能估计经济约束、债务负担或放弃率。
+- **相关理论**　经济资本、流动性与风险、能动性。
+- **贡献与核查**　[Member 2 原报告](contributions/member-2-economic-capital-original.md)；逐行目视对照 UCL PDF，融资与 E40 的动机分别登记。
+
+## E70
+
+**Investment · Verified · Descriptive**
+
+英国普通 Student visa 申请的生活资金有伦敦内外两个门槛，按申请日期使用不同版本。
+
+- **数值与单位**　伦敦内／外，至 2026-11-29 为 £1,529／£1,171 每月；2026-11-30 起 £1,570／£1,203 每月；通常最多 9 个月，以 CAS 所列尚未缴纳的适用课程费另计。
+- **总体、样本与时间**　适用一般资金门槛的学生签证申请者；2026-11-26 核；N 不适用。
+- **研究设计**　比较英国移民规则及变更生效条款。
+- **来源与定位**　[S087](source-registry.md#s087)、[S088](source-registry.md#s088) · [Appendix Student](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student) ST 12.1–12.6；[HC 584](https://www.gov.uk/government/publications/statement-of-changes-to-the-immigration-rules-hc-584-3-september-2026/statement-of-changes-to-the-immigration-rules-hc-584-3-september-2026-accessible) Implementation 和 APP ST8–ST10。本地 —。
+- **支持的推断**　说明合规资金证明和持有时间的要求。通常需持有 28 天，合格贷款或官方资助等有相应规则。
+- **局限**　金额为政策门槛，存在适用豁免和抵扣规则，需结合申请日、类别与 CAS。无实付支出或因此退出的学生数据。
+- **相关理论**　流动性、教育路径可负担性。
+- **贡献与核查**　[Member 2 原报告](contributions/member-2-economic-capital-original.md)；确认 GOV.UK 实施日与过渡版，对照 E09 的预算口径。
+
+## E71
+
+**Investment · Verified · Descriptive**
+
+财教〔2013〕19 号规定，自 2014 年秋季起向纳入全国招生计划的新入学研究生收费，彼时全日制学术学位硕士原则学费每生每年不超过 8,000 元。
+
+- **数值与单位**　原则上限人民币 8,000 元/生·年（全日制学术硕士）。
+- **总体、样本与时间**　全国研究生招生计划中的新生，具体上限适用指定学位类别；文件发布 2013，机制自 2014 年秋季实施；N 不适用。
+- **研究设计**　政策文本原件。
+- **来源与定位**　[S089](source-registry.md#s089) · [教育部原件](https://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1779/201303/t20130302_148129.html)，第四部分。本地 —。
+- **支持的推断**　可作国内研究生教育收费及资助制度的历史比较背景。
+- **局限**　原文限定当时阶段。专业学位与此前已收费类型另有适用规则；无各校实际标价、实付、净负担或对海外路径的效应估计。
+- **相关理论**　教育投资、制度性补贴。
+- **贡献与核查**　[Member 2 原报告](contributions/member-2-economic-capital-original.md)；核教育部原件第四部分。
+
+## E72
+
+**Investment · Verified · Descriptive**
+
+英国 Migration Advisory Committee 按全球院校排名比较国际学生年均学费。2021/22 年顶尖排名组和 1000+ 组的国际授课型研究生平均学费差异明显。
+
+- **数值与单位**　前 100 组 £24,040；1000+ 组 £8,480（年均）。
+- **总体、样本与时间**　英国院校国际授课型研究生，HESA 2021/22，报告 2024；对应学生 N 未在 Figure 4.12 单列。
+- **研究设计**　HESA 数据按全球院校排名组计算学费均值。
+- **来源与定位**　[S090](source-registry.md#s090) · [MAC 报告](https://www.gov.uk/government/publications/graduate-route-rapid-review/graduate-route-rapid-review-accessible) Chapter 4、Figure 4.12。本地 —。
+- **支持的推断**　价格随排名组而异，为比较路径成本与可负担性提供制度背景。
+- **局限**　是英国国际学生总体历史均值，无中国学生出身、专业构成、净支出或资助联测。排名是声望代理，不能把价差解释为教学质量或财富造成的结果差。
+- **相关理论**　成本结构、EMI 的内部路径分层。
+- **贡献与核查**　[Member 2 原报告](contributions/member-2-economic-capital-original.md)；对照 MAC 正文与 Figure 4.12。
+
+## E73
+
+**Investment · Verified · Descriptive**
+
+江苏海外读研者的加权描述显示，父母／亲友为常见资金来源，学生使用中介、院校网站等多种信息渠道。
+
+- **数值与单位**　2015–2018 届，父母／亲友资金项分别 91.4%、92.7%、93.5%、93.7%；中介信息项 56.8%、57.4%、59.8%、63.7%；院校网站 51.8%、49.8%、54.0%、53.8%。
+- **总体、样本与时间**　江苏各届已选择海外读研的学士毕业生；各题目分母另核。发表 2023，在线 2022。
+- **研究设计**　毕业生调查按行政母体加权，分年与分题描述。
+- **来源与定位**　[S020](source-registry.md#s020) · [PMC 原文](https://pmc.ncbi.nlm.nih.gov/articles/PMC9734696/)，Table 2 的 Main funding sources、Information channels。本地 —。
+- **支持的推断**　已参与者家庭融资和信息渠道的使用较常见。渠道项可并用，不以各比例之和解释为独占选择。
+- **局限**　父母、亲属、朋友合并编码；信息使用不等于付费，不观察未出国者、家庭净支出或由经济资源产生的渠道差异。与 [E19](#e19)、[E67](#e67) 共用 S020。
+- **相关理论**　经济资本与信息渠道、资本转换。
+- **贡献与核查**　[Member 2 原报告](contributions/member-2-economic-capital-original.md)；核对原文 Table 2 后分别保留资金与渠道口径。

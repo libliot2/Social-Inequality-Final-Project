@@ -35,6 +35,8 @@ HKUST(GZ) UCUG3801 Social Inequality and Social Mobility 的 Final Project 研�
 
 [分工细则与统一研究框架](research-plan.md#五人分工)
 
+**Member 2 第一轮已完成。** 原报告已归档，证据已分级核查并形成专项综合。北大样本内的经济资源与海外 offer 有条件关联，家庭流动资产和获 offer 后因费用放弃的比例仍缺直接数据。 [专项综合及跨成员衔接](evidence/contributions/member-2-economic-capital.md) · [核查状态](research-status.md#member-2-专项进度)
+
 ## 后续研究工作流
 
 Focused Research & Targeted Research → Evidence Verification & Integration → Sub-topic Research Synthesis → Group Research Synthesis → Presentation Production。

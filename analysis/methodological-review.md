@@ -30,8 +30,23 @@
 - Chen 的工作论文与期刊版使用同一研究。E30 保留 R14 工作论文所引 18% 口径，引用期刊版时需按对应规格重新核引。
 - R14 对 E05、E45、E46、E48 未充分确认，E47 国家—年份行及版本仍待核。E41 的 2024/25 比上年 −4.1% 与 2025/26 再比上年的降幅是不同区间。
 - 拿 E21 的 0.1931 直接当百分比是作者表述约定。严格转换使用 exp(0.1931)−1。E25 的 7–8 年为简化增量成本估计。
-- 课程要求是最终展示结合 1–3 个课程概念与真实案例。前期审查保留了各研究间的证据张力，专项研究可沿用这些方法和口径核查。讲义的页码沿用原综合报告，当前仓库没有课堂讲义原件供复核。 [课程 PDF](../course/GroupPresentationInstruction202627Fall.pdf) · [研究计划](../research-plan.md)
+- 课程要求是最终展示结合 1–3 个课程概念与真实案例。前期审查保留了各研究间的证据张力。Member 2 已从仓库外课程文件复核相关讲义定位，详见下节。 [课程 PDF](../course/GroupPresentationInstruction202627Fall.pdf) · [研究计划](../research-plan.md)
 
 ## 核查记录如何解释
 
 E01–E48 共 39 Verified、5 Partially Verified、4 Unverified，状态继承 R14。本轮对子集做原文复查。E49–E63 共 12 Verified、1 Partially Verified、2 Unverified。这里的 Verified 是对应发现和口径可核，不是研究质量总分。来源背后的设计、样本分母和统计结局仍须分别记录。[来源登记](../evidence/source-registry.md)
+
+## Member 2 专项核查
+
+核对截至 2026-11-26 可取得的出版商、大学存档及政府原件，和课程本地讲义。原稿照原样归档，以下记录原表支持、修正和访问边界。稳定来源和页、表、版本分别登记于 E/S 条目。 [原报告](../evidence/contributions/member-2-economic-capital-original.md) · [专项综合](../evidence/contributions/member-2-economic-capital.md)
+
+| 核查组 | 复核及修正 | 尚待检查 |
+| --- | --- | --- |
+| [北大 E20](../evidence/evidence-master.md#e20) / [E51](../evidence/evidence-master.md#e51) | Tables 1–3 确认自报经济资源以全国收入五等份分档，结局为至少一份海外 offer。OR 1.662 对应上升一档；经济资本在 GPA 和国际经历进入后仍显著，干部管理对农业家庭的 OR 才出现后段衰减。原论文正文将职业组和 OR 的阐释写得较宽，登记按原表各组。 | 同校样本已筛选，且未分出谁申请、被拒或接受。GPA 与交流经历可能是中介或选择指标，非线性模型的变化不能用作中介量。E20 整体状态仍为 Partially Verified。 |
+| [李忠路 E61](../evidence/evidence-master.md#e61) / [E68](../evidence/evidence-master.md#e68) | 对照 Table 5 文本及 Tables 6–7 原图。KHB 0.158／0.130／0.028 是合并读研与工作的收入 logit 分解；Table 7 的海外／国内 0.498 属多分类 logit 系数。成绩的交互同样来自合并读研。 | 原报告把部分关联写成解释已确立；费用与因果中介仍欠联测。与 E18 共用 BCSPS，不能当作已知独立样本。 |
+| [江苏 E19](../evidence/evidence-master.md#e19) / [E67](../evidence/evidence-master.md#e67) / [E73](../evidence/evidence-master.md#e73) | Figure 4 的 2.8／4.3／2.2% 是总体模型预测。Table 6 的目的地份额条件于海外读研者，升降收入不呈统一方向。注 8 指 2018 届缺家庭背景，纳入描述但未纳入模型。 | 模拟不估计收入冲击或奖学金政策处理效应；Table 2 资金合并亲友，不能量化父母独自支付或净支出。 |
+| [Liu 等 E18](../evidence/evidence-master.md#e18)、[Lu E64](../evidence/evidence-master.md#e64)、[杨 E65](../evidence/evidence-master.md#e65) | 书目、摘要及公开 Highlights 核对。E18 保留摘要明确支持的定性判断和原状态。E64/E65 限摘要，标 Partially Verified；意愿和倾向分别按原研究表述。 | 原表受限，未提取模型系数、参照和样本分母，也不把国际分校视作同一精英大学总体。 |
+| [Tan 与 Li E66](../evidence/evidence-master.md#e66) | Cambridge 出版 PDF 支持相对成本及并行的选择因素。摘要写 30 位受访者、31 份访谈，方法写招募 31 人，报告 30 次视频及 1 次文字访谈。 | 参与人数不一致，保留 Partially Verified；研究无法给出低收入者向亚洲转向的平均效应。 |
+| [Lan E58](../evidence/evidence-master.md#e58)、[Liu E40](../evidence/evidence-master.md#e40) / [E69](../evidence/evidence-master.md#e69) | Lan 的 Maggie 金额是计划，不含假设暑校发生；Robin 是另一项目的实付中介款。Liu UCL PDF Appendix A 目视逐行核对，原报告的赴英年份改为硕士毕业年；Yiyuan、Casper 的附录主来源和正文融资叙述分别保留。 | 金额、来源份额、借款条款和未能入学者均缺。Liu 方法以英国体系表述，附录有都柏林条目；本轮案例按所选英国就读行记录。 |
+| [加拿大 E10](../evidence/evidence-master.md#e10)、[英国签证 E70](../evidence/evidence-master.md#e70)、[国内收费 E71](../evidence/evidence-master.md#e71)、[英校学费 E72](../evidence/evidence-master.md#e72) | IRCC 补魁北克以外及明确申请日；英国 HC 584 的 APP ST8–ST10 自 2026-11-30 起适用，生活资金与课程费分列。国内 8,000 元是 2013 年文件规定的彼时学术硕士原则上限。MAC Figure 4.12 是 HESA 2021/22 英国国际授课硕士年均学费。 | 法规动态金额须按使用日与类别核；历史学费分组缺中国个体数据。收费、排名和签证证明不提供净支出、教育质量或退出效应。 |
+| [Lecture 3 S091](../evidence/source-registry.md#s091) / [Lecture 5 S092](../evidence/source-registry.md#s092) | Lecture 3 原页 pp.3–6、8–9、12、33–34 对应报告所用概念；Lecture 5 的存量与流量直接定义定位为 p.5，p.6 为推论，原报告页码 pp.5–7 范围偏宽。MMI/EMI 原文资料按 S067/S065 登记。 | 讲义在授课位置查阅。理论用于提出机制，当前资料未直接检验国内精英高校的 MMI/EMI。 |

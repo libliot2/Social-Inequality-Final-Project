@@ -22,4 +22,6 @@ Nan Lin 的网络资源和动员解释举荐差异，Bourdieu 的场域解释同
 
 ## 缺口与引用
 
+进入海外研究生教育以前，家庭支付能提供语言准备、咨询和国际经历的机会。北大先前短期经历与海外 offer 有条件关联，Lan 的案例记录具体投入；技能或网络实际累积、使用及其对申请的作用仍需测量。 [E20](../evidence/evidence-master.md#e20) · [E58](../evidence/evidence-master.md#e58) · [Member 2 与 Member 3 的衔接](../evidence/contributions/member-2-economic-capital.md#与小组其他专项衔接)
+
 优先同时记录留学前后的技能测试、网络资源、实际推荐与雇主类型，区分因留学形成的资源和带入资源。跟踪直接结果和工资可检验资本转化。按样本、访谈位置和实际结果引用。[S032–S035](../evidence/source-registry.md#s032) · [E59](../evidence/evidence-master.md#e59) · [理论图谱](../analysis/theory-evidence-map.md)
